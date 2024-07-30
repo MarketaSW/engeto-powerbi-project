@@ -28,10 +28,30 @@ def get_pdf_links(url) -> list:
     
     return pdf_links
 
-def download_pdfs(pdf_links) -> list:
-    """Download pdfs into created folder.
+def download_pdfs(pdf_links):
+    """
+    Download PDF files from the given list of links and save them to the specified folder.
+
     Parameters:
-    - pdf_links: a list of links to pdf files"""
+    - pdf_links: List of PDF URLs to download.
+    - download_folder: Path to the folder where the PDFs should be saved.
+
+    Returns:
+    - List of paths to the downloaded PDF files.
+    """
+    download_folder = Path('./temp_pdfs')
+    if not download_folder.exists():
+        download_folder.mkdir(parents=True)
+
+    pdf_files = []
+    for link in pdf_links:
+        pdf_name = download_folder / link.split('/')[-1]
+        response = requests.get(link)
+        with pdf_name.open('wb') as pdf_file:
+            pdf_file.write(response.content)
+        pdf_files.append(pdf_name)
+    
+    return pdf_files
 
 
 
