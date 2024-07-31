@@ -1,11 +1,14 @@
+"""szu_scraper.py
+Run this script with arguments e.g.:
+python3 szu_scraper.py "url address" "output" 
+"""
 
 import pymupdf
 import requests
 import csv
 import argparse
-from bs4 import BeautifulSoup as bs
+from bs4 import BeautifulSoup
 from pathlib import Path
-import sys
 
 def get_pdf_links(url) -> list:
     """Return list with all pdf links from the second column of the table.
@@ -25,7 +28,12 @@ def get_pdf_links(url) -> list:
             for link in links:
                 href = link['href']
                 if href.lower().endswith('.pdf'):
-                    pdf_links.append(href)
+                    if href.startswith('/'):
+                        base_url = url.split('//')[1].split('/')[0]
+                        absolute_url = f'https://{base_url}{href}'
+                    else:
+                        absolute_url = href
+                    pdf_links.append(absolute_url)
     
     return pdf_links
 
@@ -92,7 +100,7 @@ def main():
     print(f"Saving to file: {args.output_file}")
     write_to_csv(tables, args.output_file)
 
-   print("Done!")
+    print("Done!")
 
 if __name__ == "__main__":
     main()    
