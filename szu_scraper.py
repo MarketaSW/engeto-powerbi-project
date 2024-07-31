@@ -65,13 +65,15 @@ def extract_data_from_pdf(pdf_files) -> list:
         table = first_page.find_tables()
         table_data = [table.extract()]
         tables.append(table_data)
+    return tables    
 
-
-        doc = fitz.open('data/doc.pdf')
-for page in doc:
-    tabs = page.find_tables()
-    if tabs.tables:
-        print(tabs[0].extract())
+def write_to_csv(tables, output_file):
+    
+    path = Path(output_file)
+    with path.open('w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        for table in tables:
+            writer.writerows(table)
 
 def main():
     parser = argparse.ArgumentParser()
