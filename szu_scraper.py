@@ -100,8 +100,6 @@ def main():
 
     print("Extracting data from pdfs...")
     tables = extract_data_from_pdf(pdf_files)
-    format_table(tables)
-   
 
     print(f"Saving to file: {args.output_file}")
     write_to_csv(tables, args.output_file)
