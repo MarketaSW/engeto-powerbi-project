@@ -73,17 +73,31 @@ def extract_data_from_pdf(pdf_files) -> list:
         first_page = doc[0]
         tables_found = first_page.find_tables()
         for tab in tables_found:
-            table_data = tab.extract()
+            table_data = [tab.extract()]
             if table_data:
                 tables.extend(table_data)
     return tables    
+
+def extend_rows(tables) -> list:
+    """Add blank cells to specific rows to format table."""
+    initial_rows_to_extend = [1, 2, 4, 5]
+    rows_to_extend = initial_rows_to_extend.copy()
+
+    for table in tables:
+        while rows_to_extend[-1] < len(table):
+            if i in rows_to_extend:
+                for i in rows_to_extend:
+                    table[i].insert(0, None)
+                    rows_to_extend = [i + 6 for i in initial_rows_to_extend]
+            else: continue    
+    
+    return tables 
 
 def write_to_csv(tables, output_file):
     
     path = Path(output_file)
     with path.open('w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        print("Tables to be written:", tables)  # Debugging line
         for row in tables:
             if row is not None:
                 writer.writerow(row)
@@ -100,8 +114,9 @@ def main():
 
     print("Extracting data from pdfs...")
     tables = extract_data_from_pdf(pdf_files)
-    format_table(tables)
-   
+
+    print("Formatting table...")
+    # formatted_tables = extend_rows(tables)
 
     print(f"Saving to file: {args.output_file}")
     write_to_csv(tables, args.output_file)
@@ -110,3 +125,5 @@ def main():
 
 if __name__ == "__main__":
     main()    
+
+#python3 szu_scraper.py "https://szu.cz/temata-zdravi-a-bezpecnosti/a-z-infekce/ch/chripka/zprava-o-chripkove-aktivite-hlaseni-a-vysledky-laboratornich-vysetreni/vyskyt-akutnich-respiracnich-infekci-a-chripky-v-cr-sezona-2022-2023/" "output_file.csv"
