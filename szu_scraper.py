@@ -66,13 +66,16 @@ def extract_data_from_pdf(pdf_files) -> list:
     """Extract tables from PDF files.
     Parameters: 
     - pdf_files: a list of pdf_files for extraction """
+
     tables = []
     for pdf_file in pdf_files:
         doc = pymupdf.open(pdf_file)
-        first_page = doc.load_page(0)
-        table = first_page.find_tables()
-        table_data = [table.extract()]
-        tables.append(table_data)
+        first_page = doc[0]
+        tables_found = first_page.find_tables()
+        for tab in tables_found:
+            table_data = tab.extract()
+            if table_data:
+                tables.extend(table_data)
     return tables    
 
 def write_to_csv(tables, output_file):
@@ -80,8 +83,10 @@ def write_to_csv(tables, output_file):
     path = Path(output_file)
     with path.open('w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        for table in tables:
-            writer.writerows(table)
+        print("Tables to be written:", tables)  # Debugging line
+        for row in tables:
+            if row is not None:
+                writer.writerow(row)
 
 def main():
     parser = argparse.ArgumentParser()
@@ -95,6 +100,7 @@ def main():
 
     print("Extracting data from pdfs...")
     tables = extract_data_from_pdf(pdf_files)
+    format_table(tables)
    
 
     print(f"Saving to file: {args.output_file}")
