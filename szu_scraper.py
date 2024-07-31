@@ -1,4 +1,5 @@
 
+import pymupdf
 import requests
 import csv
 import argparse
@@ -53,8 +54,24 @@ def download_pdfs(pdf_links):
     
     return pdf_files
 
+def extract_data_from_pdf(pdf_files) -> list:
+    """Extract tables from PDF files.
+    Parameters: 
+    - pdf_files: a list of pdf_files for extraction """
+    tables = []
+    for pdf_file in pdf_files:
+        doc = pymupdf.open(pdf_file)
+        first_page = doc.load_page(0)
+        table = first_page.find_tables()
+        table_data = [table.extract()]
+        tables.append(table_data)
 
 
+        doc = fitz.open('data/doc.pdf')
+for page in doc:
+    tabs = page.find_tables()
+    if tabs.tables:
+        print(tabs[0].extract())
 
 def main():
     parser = argparse.ArgumentParser()
