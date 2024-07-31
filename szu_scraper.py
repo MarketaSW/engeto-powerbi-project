@@ -93,15 +93,16 @@ def format_table(tables) -> list:
     
     return aligned_rows
 
-def write_to_csv(tables, output_file):
+def write_to_csv(aligned_rows, output_file):
     
     path = Path(output_file)
     with path.open('w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        print("Tables to be written:", tables)  # Debugging line
-        for row in tables:
+        print("Tables to be written:", aligned_rows)  # Debugging line
+        for row in aligned_rows:
             if row is not None:
-                writer.writerow(row)
+                cleaned_row = [cell if cell is not None else '' for cell in row]
+                writer.writerow(cleaned_row)
 
 def main():
     parser = argparse.ArgumentParser()
