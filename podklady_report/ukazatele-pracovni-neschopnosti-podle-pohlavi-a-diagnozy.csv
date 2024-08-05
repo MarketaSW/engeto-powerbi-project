@@ -1,0 +1,1444 @@
+datum,pohlavi_kod,pohlavi,skupina_diagnoz,pocet_ukoncenych_pripadu_dpn,pocet_prostonanych_dnu,prumerna_delka_trvani_jednoho_pripadu_dpn
+2015-03-31,F,Žena,Nemoci duševní,6195,659104,106.39
+2015-03-31,F,Žena,Nemoci dýchací soustavy,142810,2205795,15.45
+2015-03-31,F,Žena,Nemoci kůže,2267,85441,37.69
+2015-03-31,F,Žena,Nemoci močové a pohlavní soustavy,12421,420202,33.83
+2015-03-31,F,Žena,Nemoci nervové soustavy,3135,276928,88.33
+2015-03-31,F,Žena,Nemoci oběhové soustavy,5025,352020,70.05
+2015-03-31,F,Žena,Nemoci ostatní,18281,839540,45.92
+2015-03-31,F,Žena,Nemoci pohybové soustavy,32666,2552510,78.14
+2015-03-31,F,Žena,Nemoci trávicí soustavy,11196,361400,32.28
+2015-03-31,F,Žena,Tuberkulóza,10,2035,203.5
+2015-03-31,F,Žena,"Těhotenství, porod, šestinedělí",9334,996902,106.8
+2015-03-31,F,Žena,Zhoubné novotvary,1615,309938,191.91
+2015-03-31,F,Žena,"Úrazy, otravy",14731,845567,57.4
+2015-03-31,M,Muž,Nemoci duševní,3358,304645,90.72
+2015-03-31,M,Muž,Nemoci dýchací soustavy,122723,1800071,14.67
+2015-03-31,M,Muž,Nemoci kůže,3129,112222,35.87
+2015-03-31,M,Muž,Nemoci močové a pohlavní soustavy,3440,139410,40.53
+2015-03-31,M,Muž,Nemoci nervové soustavy,2339,206947,88.48
+2015-03-31,M,Muž,Nemoci oběhové soustavy,6834,642209,93.97
+2015-03-31,M,Muž,Nemoci ostatní,12194,422049,34.61
+2015-03-31,M,Muž,Nemoci pohybové soustavy,36586,2449989,66.97
+2015-03-31,M,Muž,Nemoci trávicí soustavy,13043,457000,35.04
+2015-03-31,M,Muž,Tuberkulóza,21,4504,214.48
+2015-03-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2015-03-31,M,Muž,Zhoubné novotvary,1569,278089,177.24
+2015-03-31,M,Muž,"Úrazy, otravy",27144,1543715,56.87
+2015-03-31,T,Celkem,Nemoci duševní,9553,963749,100.88
+2015-03-31,T,Celkem,Nemoci dýchací soustavy,265533,4005866,15.09
+2015-03-31,T,Celkem,Nemoci kůže,5396,197663,36.63
+2015-03-31,T,Celkem,Nemoci močové a pohlavní soustavy,15861,559612,35.28
+2015-03-31,T,Celkem,Nemoci nervové soustavy,5474,483875,88.4
+2015-03-31,T,Celkem,Nemoci oběhové soustavy,11859,994229,83.84
+2015-03-31,T,Celkem,Nemoci ostatní,30475,1261589,41.4
+2015-03-31,T,Celkem,Nemoci pohybové soustavy,69252,5002499,72.24
+2015-03-31,T,Celkem,Nemoci trávicí soustavy,24239,818400,33.76
+2015-03-31,T,Celkem,Tuberkulóza,31,6539,210.94
+2015-03-31,T,Celkem,"Těhotenství, porod, šestinedělí",9334,996902,106.8
+2015-03-31,T,Celkem,Zhoubné novotvary,3184,588027,184.68
+2015-03-31,T,Celkem,"Úrazy, otravy",41875,2389282,57.06
+2015-06-30,F,Žena,Nemoci duševní,13008,1296031,99.63
+2015-06-30,F,Žena,Nemoci dýchací soustavy,211891,3420983,16.15
+2015-06-30,F,Žena,Nemoci kůže,5034,186451,37.04
+2015-06-30,F,Žena,Nemoci močové a pohlavní soustavy,25248,849183,33.63
+2015-06-30,F,Žena,Nemoci nervové soustavy,6771,578329,85.41
+2015-06-30,F,Žena,Nemoci oběhové soustavy,10317,704964,68.33
+2015-06-30,F,Žena,Nemoci ostatní,38370,1736490,45.26
+2015-06-30,F,Žena,Nemoci pohybové soustavy,68900,5158707,74.87
+2015-06-30,F,Žena,Nemoci trávicí soustavy,24649,752087,30.51
+2015-06-30,F,Žena,Tuberkulóza,21,3549,169.0
+2015-06-30,F,Žena,"Těhotenství, porod, šestinedělí",19128,2053387,107.35
+2015-06-30,F,Žena,Zhoubné novotvary,3363,625853,186.1
+2015-06-30,F,Žena,"Úrazy, otravy",30605,1723082,56.3
+2015-06-30,M,Muž,Nemoci duševní,7129,606796,85.12
+2015-06-30,M,Muž,Nemoci dýchací soustavy,180295,2750587,15.26
+2015-06-30,M,Muž,Nemoci kůže,6685,224960,33.65
+2015-06-30,M,Muž,Nemoci močové a pohlavní soustavy,7022,274200,39.05
+2015-06-30,M,Muž,Nemoci nervové soustavy,4892,416607,85.16
+2015-06-30,M,Muž,Nemoci oběhové soustavy,13801,1252801,90.78
+2015-06-30,M,Muž,Nemoci ostatní,25460,817916,32.13
+2015-06-30,M,Muž,Nemoci pohybové soustavy,74145,4813369,64.92
+2015-06-30,M,Muž,Nemoci trávicí soustavy,28504,927767,32.55
+2015-06-30,M,Muž,Tuberkulóza,41,7217,176.02
+2015-06-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2015-06-30,M,Muž,Zhoubné novotvary,3154,545261,172.88
+2015-06-30,M,Muž,"Úrazy, otravy",57719,3059913,53.01
+2015-06-30,T,Celkem,Nemoci duševní,20137,1902827,94.49
+2015-06-30,T,Celkem,Nemoci dýchací soustavy,392186,6171570,15.74
+2015-06-30,T,Celkem,Nemoci kůže,11719,411411,35.11
+2015-06-30,T,Celkem,Nemoci močové a pohlavní soustavy,32270,1123383,34.81
+2015-06-30,T,Celkem,Nemoci nervové soustavy,11663,994936,85.31
+2015-06-30,T,Celkem,Nemoci oběhové soustavy,24118,1957765,81.17
+2015-06-30,T,Celkem,Nemoci ostatní,63830,2554406,40.02
+2015-06-30,T,Celkem,Nemoci pohybové soustavy,143045,9972076,69.71
+2015-06-30,T,Celkem,Nemoci trávicí soustavy,53153,1679854,31.6
+2015-06-30,T,Celkem,Tuberkulóza,62,10766,173.65
+2015-06-30,T,Celkem,"Těhotenství, porod, šestinedělí",19128,2053387,107.35
+2015-06-30,T,Celkem,Zhoubné novotvary,6517,1171114,179.7
+2015-06-30,T,Celkem,"Úrazy, otravy",88324,4782995,54.15
+2015-09-30,F,Žena,Nemoci duševní,18856,1854949,98.37
+2015-09-30,F,Žena,Nemoci dýchací soustavy,241538,3960484,16.4
+2015-09-30,F,Žena,Nemoci kůže,7651,268375,35.08
+2015-09-30,F,Žena,Nemoci močové a pohlavní soustavy,35089,1181785,33.68
+2015-09-30,F,Žena,Nemoci nervové soustavy,9757,822939,84.34
+2015-09-30,F,Žena,Nemoci oběhové soustavy,14165,981446,69.29
+2015-09-30,F,Žena,Nemoci ostatní,55147,2503571,45.4
+2015-09-30,F,Žena,Nemoci pohybové soustavy,99172,7414184,74.76
+2015-09-30,F,Žena,Nemoci trávicí soustavy,36291,1063485,29.3
+2015-09-30,F,Žena,Tuberkulóza,36,7023,195.08
+2015-09-30,F,Žena,"Těhotenství, porod, šestinedělí",27920,3018503,108.11
+2015-09-30,F,Žena,Zhoubné novotvary,4929,913816,185.4
+2015-09-30,F,Žena,"Úrazy, otravy",45420,2496533,54.97
+2015-09-30,M,Muž,Nemoci duševní,10429,864698,82.91
+2015-09-30,M,Muž,Nemoci dýchací soustavy,209837,3222505,15.36
+2015-09-30,M,Muž,Nemoci kůže,10307,331486,32.16
+2015-09-30,M,Muž,Nemoci močové a pohlavní soustavy,10092,382161,37.87
+2015-09-30,M,Muž,Nemoci nervové soustavy,7011,579898,82.71
+2015-09-30,M,Muž,Nemoci oběhové soustavy,19602,1776240,90.62
+2015-09-30,M,Muž,Nemoci ostatní,39003,1177877,30.2
+2015-09-30,M,Muž,Nemoci pohybové soustavy,107164,6747448,62.96
+2015-09-30,M,Muž,Nemoci trávicí soustavy,43426,1314215,30.26
+2015-09-30,M,Muž,Tuberkulóza,58,10958,188.93
+2015-09-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2015-09-30,M,Muž,Zhoubné novotvary,4582,781350,170.53
+2015-09-30,M,Muž,"Úrazy, otravy",88675,4506419,50.82
+2015-09-30,T,Celkem,Nemoci duševní,29285,2719647,92.87
+2015-09-30,T,Celkem,Nemoci dýchací soustavy,451375,7182989,15.91
+2015-09-30,T,Celkem,Nemoci kůže,17958,599861,33.4
+2015-09-30,T,Celkem,Nemoci močové a pohlavní soustavy,45181,1563946,34.62
+2015-09-30,T,Celkem,Nemoci nervové soustavy,16768,1402837,83.66
+2015-09-30,T,Celkem,Nemoci oběhové soustavy,33767,2757686,81.67
+2015-09-30,T,Celkem,Nemoci ostatní,94150,3681448,39.1
+2015-09-30,T,Celkem,Nemoci pohybové soustavy,206336,14161632,68.63
+2015-09-30,T,Celkem,Nemoci trávicí soustavy,79717,2377700,29.83
+2015-09-30,T,Celkem,Tuberkulóza,94,17981,191.29
+2015-09-30,T,Celkem,"Těhotenství, porod, šestinedělí",27920,3018503,108.11
+2015-09-30,T,Celkem,Zhoubné novotvary,9511,1695166,178.23
+2015-09-30,T,Celkem,"Úrazy, otravy",134095,7002952,52.22
+2015-12-31,F,Žena,Nemoci duševní,25344,2417948,95.41
+2015-12-31,F,Žena,Nemoci dýchací soustavy,316623,5091585,16.08
+2015-12-31,F,Žena,Nemoci kůže,10247,355936,34.74
+2015-12-31,F,Žena,Nemoci močové a pohlavní soustavy,48727,1574131,32.31
+2015-12-31,F,Žena,Nemoci nervové soustavy,13039,1072178,82.23
+2015-12-31,F,Žena,Nemoci oběhové soustavy,18978,1293857,68.18
+2015-12-31,F,Žena,Nemoci ostatní,74534,3341057,44.83
+2015-12-31,F,Žena,Nemoci pohybové soustavy,133896,9724853,72.63
+2015-12-31,F,Žena,Nemoci trávicí soustavy,48920,1414649,28.92
+2015-12-31,F,Žena,Tuberkulóza,43,8144,189.4
+2015-12-31,F,Žena,"Těhotenství, porod, šestinedělí",37210,3974198,106.8
+2015-12-31,F,Žena,Zhoubné novotvary,6623,1218264,183.94
+2015-12-31,F,Žena,"Úrazy, otravy",60020,3266539,54.42
+2015-12-31,M,Muž,Nemoci duševní,13945,1135486,81.43
+2015-12-31,M,Muž,Nemoci dýchací soustavy,278537,4188940,15.04
+2015-12-31,M,Muž,Nemoci kůže,13785,443381,32.16
+2015-12-31,M,Muž,Nemoci močové a pohlavní soustavy,13819,501349,36.28
+2015-12-31,M,Muž,Nemoci nervové soustavy,9333,756311,81.04
+2015-12-31,M,Muž,Nemoci oběhové soustavy,25722,2314730,89.99
+2015-12-31,M,Muž,Nemoci ostatní,51914,1562128,30.09
+2015-12-31,M,Muž,Nemoci pohybové soustavy,143485,8816239,61.44
+2015-12-31,M,Muž,Nemoci trávicí soustavy,58096,1720397,29.61
+2015-12-31,M,Muž,Tuberkulóza,81,16891,208.53
+2015-12-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2015-12-31,M,Muž,Zhoubné novotvary,6155,1047068,170.12
+2015-12-31,M,Muž,"Úrazy, otravy",117722,5929986,50.37
+2015-12-31,T,Celkem,Nemoci duševní,39289,3553434,90.44
+2015-12-31,T,Celkem,Nemoci dýchací soustavy,595160,9280525,15.59
+2015-12-31,T,Celkem,Nemoci kůže,24032,799317,33.26
+2015-12-31,T,Celkem,Nemoci močové a pohlavní soustavy,62546,2075480,33.18
+2015-12-31,T,Celkem,Nemoci nervové soustavy,22372,1828489,81.73
+2015-12-31,T,Celkem,Nemoci oběhové soustavy,44700,3608587,80.73
+2015-12-31,T,Celkem,Nemoci ostatní,126448,4903185,38.78
+2015-12-31,T,Celkem,Nemoci pohybové soustavy,277381,18541092,66.84
+2015-12-31,T,Celkem,Nemoci trávicí soustavy,107016,3135046,29.3
+2015-12-31,T,Celkem,Tuberkulóza,124,25035,201.9
+2015-12-31,T,Celkem,"Těhotenství, porod, šestinedělí",37210,3974198,106.8
+2015-12-31,T,Celkem,Zhoubné novotvary,12778,2265332,177.28
+2015-12-31,T,Celkem,"Úrazy, otravy",177742,9196525,51.74
+2016-03-31,F,Žena,Nemoci duševní,6686,618499,92.51
+2016-03-31,F,Žena,Nemoci dýchací soustavy,106612,1438600,13.49
+2016-03-31,F,Žena,Nemoci kůže,2608,93914,36.01
+2016-03-31,F,Žena,Nemoci močové a pohlavní soustavy,13311,441064,33.14
+2016-03-31,F,Žena,Nemoci nervové soustavy,3490,295605,84.7
+2016-03-31,F,Žena,Nemoci oběhové soustavy,6546,545930,83.4
+2016-03-31,F,Žena,Nemoci ostatní,20918,961495,45.96
+2016-03-31,F,Žena,Nemoci pohybové soustavy,37228,2688202,72.21
+2016-03-31,F,Žena,Nemoci trávicí soustavy,12721,398387,31.32
+2016-03-31,F,Žena,Tuberkulóza,4,359,89.75
+2016-03-31,F,Žena,"Těhotenství, porod, šestinedělí",9250,977107,105.63
+2016-03-31,F,Žena,Zhoubné novotvary,1631,316586,194.11
+2016-03-31,F,Žena,"Úrazy, otravy",15323,843697,55.06
+2016-03-31,M,Muž,Nemoci duševní,3821,337131,88.23
+2016-03-31,M,Muž,Nemoci dýchací soustavy,94490,1535154,16.25
+2016-03-31,M,Muž,Nemoci kůže,3412,116178,34.05
+2016-03-31,M,Muž,Nemoci močové a pohlavní soustavy,3790,143768,37.93
+2016-03-31,M,Muž,Nemoci nervové soustavy,2559,219282,85.69
+2016-03-31,M,Muž,Nemoci oběhové soustavy,5938,465996,78.48
+2016-03-31,M,Muž,Nemoci ostatní,14045,442699,31.52
+2016-03-31,M,Muž,Nemoci pohybové soustavy,41206,2614548,63.45
+2016-03-31,M,Muž,Nemoci trávicí soustavy,15110,488261,32.31
+2016-03-31,M,Muž,Tuberkulóza,23,4059,176.48
+2016-03-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2016-03-31,M,Muž,Zhoubné novotvary,1557,269069,172.81
+2016-03-31,M,Muž,"Úrazy, otravy",28436,1574827,55.38
+2016-03-31,T,Celkem,Nemoci duševní,10507,955630,90.95
+2016-03-31,T,Celkem,Nemoci dýchací soustavy,201102,2973754,14.79
+2016-03-31,T,Celkem,Nemoci kůže,6020,210092,34.9
+2016-03-31,T,Celkem,Nemoci močové a pohlavní soustavy,17101,584832,34.2
+2016-03-31,T,Celkem,Nemoci nervové soustavy,6049,514887,85.12
+2016-03-31,T,Celkem,Nemoci oběhové soustavy,12484,1011926,81.06
+2016-03-31,T,Celkem,Nemoci ostatní,34963,1404194,40.16
+2016-03-31,T,Celkem,Nemoci pohybové soustavy,78434,5302750,67.61
+2016-03-31,T,Celkem,Nemoci trávicí soustavy,27831,886648,31.86
+2016-03-31,T,Celkem,Tuberkulóza,27,4418,163.63
+2016-03-31,T,Celkem,"Těhotenství, porod, šestinedělí",9250,977107,105.63
+2016-03-31,T,Celkem,Zhoubné novotvary,3188,585655,183.71
+2016-03-31,T,Celkem,"Úrazy, otravy",43759,2418524,55.27
+2016-06-30,F,Žena,Nemoci duševní,13987,1245792,89.07
+2016-06-30,F,Žena,Nemoci dýchací soustavy,175134,2484908,14.19
+2016-06-30,F,Žena,Nemoci kůže,5744,193384,33.67
+2016-06-30,F,Žena,Nemoci močové a pohlavní soustavy,27168,888943,32.72
+2016-06-30,F,Žena,Nemoci nervové soustavy,7613,611985,80.39
+2016-06-30,F,Žena,Nemoci oběhové soustavy,13704,1138136,83.05
+2016-06-30,F,Žena,Nemoci ostatní,44334,2003632,45.19
+2016-06-30,F,Žena,Nemoci pohybové soustavy,79042,5558634,70.33
+2016-06-30,F,Žena,Nemoci trávicí soustavy,27408,824956,30.1
+2016-06-30,F,Žena,Tuberkulóza,12,1841,153.42
+2016-06-30,F,Žena,"Těhotenství, porod, šestinedělí",18791,1996881,106.27
+2016-06-30,F,Žena,Zhoubné novotvary,3428,635465,185.37
+2016-06-30,F,Žena,"Úrazy, otravy",32193,1745981,54.23
+2016-06-30,M,Muž,Nemoci duševní,7851,656903,83.67
+2016-06-30,M,Muž,Nemoci dýchací soustavy,153566,2686816,17.5
+2016-06-30,M,Muž,Nemoci kůže,7396,239548,32.39
+2016-06-30,M,Muž,Nemoci močové a pohlavní soustavy,7689,295015,38.37
+2016-06-30,M,Muž,Nemoci nervové soustavy,5376,449736,83.66
+2016-06-30,M,Muž,Nemoci oběhové soustavy,12339,949196,76.93
+2016-06-30,M,Muž,Nemoci ostatní,29932,917036,30.64
+2016-06-30,M,Muž,Nemoci pohybové soustavy,83159,5208627,62.63
+2016-06-30,M,Muž,Nemoci trávicí soustavy,32384,1004556,31.02
+2016-06-30,M,Muž,Tuberkulóza,46,9194,199.87
+2016-06-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2016-06-30,M,Muž,Zhoubné novotvary,3280,560938,171.02
+2016-06-30,M,Muž,"Úrazy, otravy",60862,3143949,51.66
+2016-06-30,T,Celkem,Nemoci duševní,21838,1902695,87.13
+2016-06-30,T,Celkem,Nemoci dýchací soustavy,328700,5171724,15.73
+2016-06-30,T,Celkem,Nemoci kůže,13140,432932,32.95
+2016-06-30,T,Celkem,Nemoci močové a pohlavní soustavy,34857,1183958,33.97
+2016-06-30,T,Celkem,Nemoci nervové soustavy,12989,1061721,81.74
+2016-06-30,T,Celkem,Nemoci oběhové soustavy,26043,2087332,80.15
+2016-06-30,T,Celkem,Nemoci ostatní,74266,2920668,39.33
+2016-06-30,T,Celkem,Nemoci pohybové soustavy,162201,10767261,66.38
+2016-06-30,T,Celkem,Nemoci trávicí soustavy,59792,1829512,30.6
+2016-06-30,T,Celkem,Tuberkulóza,58,11035,190.26
+2016-06-30,T,Celkem,"Těhotenství, porod, šestinedělí",18791,1996881,106.27
+2016-06-30,T,Celkem,Zhoubné novotvary,6708,1196403,178.35
+2016-06-30,T,Celkem,"Úrazy, otravy",93055,4889930,52.55
+2016-09-30,F,Žena,Nemoci duševní,20504,1863605,90.89
+2016-09-30,F,Žena,Nemoci dýchací soustavy,205203,2879452,14.03
+2016-09-30,F,Žena,Nemoci kůže,8629,283840,32.89
+2016-09-30,F,Žena,Nemoci močové a pohlavní soustavy,37966,1253164,33.01
+2016-09-30,F,Žena,Nemoci nervové soustavy,11126,920096,82.7
+2016-09-30,F,Žena,Nemoci oběhové soustavy,18603,1615662,86.85
+2016-09-30,F,Žena,Nemoci ostatní,63758,2934524,46.03
+2016-09-30,F,Žena,Nemoci pohybové soustavy,113978,8124041,71.28
+2016-09-30,F,Žena,Nemoci trávicí soustavy,39803,1184732,29.76
+2016-09-30,F,Žena,Tuberkulóza,20,3076,153.8
+2016-09-30,F,Žena,"Těhotenství, porod, šestinedělí",27859,2975655,106.81
+2016-09-30,F,Žena,Zhoubné novotvary,5126,967303,188.71
+2016-09-30,F,Žena,"Úrazy, otravy",48695,2612161,53.64
+2016-09-30,M,Muž,Nemoci duševní,11471,945690,82.44
+2016-09-30,M,Muž,Nemoci dýchací soustavy,186714,3360362,18.0
+2016-09-30,M,Muž,Nemoci kůže,11189,360887,32.25
+2016-09-30,M,Muž,Nemoci močové a pohlavní soustavy,10834,406769,37.55
+2016-09-30,M,Muž,Nemoci nervové soustavy,7720,647160,83.83
+2016-09-30,M,Muž,Nemoci oběhové soustavy,17222,1331276,77.3
+2016-09-30,M,Muž,Nemoci ostatní,45140,1352718,29.97
+2016-09-30,M,Muž,Nemoci pohybové soustavy,120082,7405825,61.67
+2016-09-30,M,Muž,Nemoci trávicí soustavy,48308,1440122,29.81
+2016-09-30,M,Muž,Tuberkulóza,63,12558,199.33
+2016-09-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2016-09-30,M,Muž,Zhoubné novotvary,4805,826836,172.08
+2016-09-30,M,Muž,"Úrazy, otravy",93088,4665948,50.12
+2016-09-30,T,Celkem,Nemoci duševní,31975,2809295,87.86
+2016-09-30,T,Celkem,Nemoci dýchací soustavy,391917,6239814,15.92
+2016-09-30,T,Celkem,Nemoci kůže,19818,644727,32.53
+2016-09-30,T,Celkem,Nemoci močové a pohlavní soustavy,48800,1659933,34.02
+2016-09-30,T,Celkem,Nemoci nervové soustavy,18846,1567256,83.16
+2016-09-30,T,Celkem,Nemoci oběhové soustavy,35825,2946938,82.26
+2016-09-30,T,Celkem,Nemoci ostatní,108898,4287242,39.37
+2016-09-30,T,Celkem,Nemoci pohybové soustavy,234060,15529866,66.35
+2016-09-30,T,Celkem,Nemoci trávicí soustavy,88111,2624854,29.79
+2016-09-30,T,Celkem,Tuberkulóza,83,15634,188.36
+2016-09-30,T,Celkem,"Těhotenství, porod, šestinedělí",27859,2975655,106.81
+2016-09-30,T,Celkem,Zhoubné novotvary,9931,1794139,180.66
+2016-09-30,T,Celkem,"Úrazy, otravy",141783,7278109,51.33
+2016-12-31,F,Žena,Nemoci duševní,27423,2473970,90.22
+2016-12-31,F,Žena,Nemoci dýchací soustavy,290175,3949271,13.61
+2016-12-31,F,Žena,Nemoci kůže,11546,375413,32.51
+2016-12-31,F,Žena,Nemoci močové a pohlavní soustavy,52497,1668415,31.78
+2016-12-31,F,Žena,Nemoci nervové soustavy,14782,1203129,81.39
+2016-12-31,F,Žena,Nemoci oběhové soustavy,24683,2132376,86.39
+2016-12-31,F,Žena,Nemoci ostatní,87117,3898299,44.75
+2016-12-31,F,Žena,Nemoci pohybové soustavy,152798,10749519,70.35
+2016-12-31,F,Žena,Nemoci trávicí soustavy,55432,1575951,28.43
+2016-12-31,F,Žena,Tuberkulóza,26,3910,150.38
+2016-12-31,F,Žena,"Těhotenství, porod, šestinedělí",37224,3927595,105.51
+2016-12-31,F,Žena,Zhoubné novotvary,6851,1289625,188.24
+2016-12-31,F,Žena,"Úrazy, otravy",64236,3448940,53.69
+2016-12-31,M,Muž,Nemoci duševní,15202,1250516,82.26
+2016-12-31,M,Muž,Nemoci dýchací soustavy,266377,4630952,17.38
+2016-12-31,M,Muž,Nemoci kůže,14997,475560,31.71
+2016-12-31,M,Muž,Nemoci močové a pohlavní soustavy,14685,541327,36.86
+2016-12-31,M,Muž,Nemoci nervové soustavy,10216,847220,82.93
+2016-12-31,M,Muž,Nemoci oběhové soustavy,22747,1751634,77.01
+2016-12-31,M,Muž,Nemoci ostatní,61763,1805171,29.23
+2016-12-31,M,Muž,Nemoci pohybové soustavy,159045,9673238,60.82
+2016-12-31,M,Muž,Nemoci trávicí soustavy,65908,1886551,28.62
+2016-12-31,M,Muž,Tuberkulóza,84,16821,200.25
+2016-12-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2016-12-31,M,Muž,Zhoubné novotvary,6396,1105371,172.82
+2016-12-31,M,Muž,"Úrazy, otravy",122668,6159800,50.22
+2016-12-31,T,Celkem,Nemoci duševní,42625,3724486,87.38
+2016-12-31,T,Celkem,Nemoci dýchací soustavy,556552,8580223,15.42
+2016-12-31,T,Celkem,Nemoci kůže,26543,850973,32.06
+2016-12-31,T,Celkem,Nemoci močové a pohlavní soustavy,67182,2209742,32.89
+2016-12-31,T,Celkem,Nemoci nervové soustavy,24998,2050349,82.02
+2016-12-31,T,Celkem,Nemoci oběhové soustavy,47431,3884010,81.89
+2016-12-31,T,Celkem,Nemoci ostatní,148880,5703470,38.31
+2016-12-31,T,Celkem,Nemoci pohybové soustavy,311843,20422757,65.49
+2016-12-31,T,Celkem,Nemoci trávicí soustavy,121340,3462502,28.54
+2016-12-31,T,Celkem,Tuberkulóza,110,20731,188.46
+2016-12-31,T,Celkem,"Těhotenství, porod, šestinedělí",37224,3927595,105.51
+2016-12-31,T,Celkem,Zhoubné novotvary,13247,2394996,180.8
+2016-12-31,T,Celkem,"Úrazy, otravy",186904,9608740,51.41
+2017-03-31,F,Žena,Nemoci duševní,7190,679822,94.55
+2017-03-31,F,Žena,Nemoci dýchací soustavy,156056,2426117,15.55
+2017-03-31,F,Žena,Nemoci kůže,2699,100876,37.38
+2017-03-31,F,Žena,Nemoci močové a pohlavní soustavy,14633,479398,32.76
+2017-03-31,F,Žena,Nemoci nervové soustavy,3820,335807,87.91
+2017-03-31,F,Žena,Nemoci oběhové soustavy,5696,371108,65.15
+2017-03-31,F,Žena,Nemoci ostatní,24427,1050211,42.99
+2017-03-31,F,Žena,Nemoci pohybové soustavy,41206,2999097,72.78
+2017-03-31,F,Žena,Nemoci trávicí soustavy,14915,430590,28.87
+2017-03-31,F,Žena,Tuberkulóza,10,1752,175.2
+2017-03-31,F,Žena,"Těhotenství, porod, šestinedělí",9357,970012,103.67
+2017-03-31,F,Žena,Zhoubné novotvary,1801,346214,192.23
+2017-03-31,F,Žena,"Úrazy, otravy",18456,997964,54.07
+2017-03-31,M,Muž,Nemoci duševní,3985,325404,81.66
+2017-03-31,M,Muž,Nemoci dýchací soustavy,131848,1987891,15.08
+2017-03-31,M,Muž,Nemoci kůže,3699,133718,36.15
+2017-03-31,M,Muž,Nemoci močové a pohlavní soustavy,4095,153604,37.51
+2017-03-31,M,Muž,Nemoci nervové soustavy,2839,241338,85.01
+2017-03-31,M,Muž,Nemoci oběhové soustavy,7568,687392,90.83
+2017-03-31,M,Muž,Nemoci ostatní,17130,518985,30.3
+2017-03-31,M,Muž,Nemoci pohybové soustavy,45489,2919102,64.17
+2017-03-31,M,Muž,Nemoci trávicí soustavy,17566,545608,31.06
+2017-03-31,M,Muž,Tuberkulóza,23,5653,245.78
+2017-03-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2017-03-31,M,Muž,Zhoubné novotvary,1624,290508,178.88
+2017-03-31,M,Muž,"Úrazy, otravy",30905,1678062,54.3
+2017-03-31,T,Celkem,Nemoci duševní,11175,1005226,89.95
+2017-03-31,T,Celkem,Nemoci dýchací soustavy,287904,4414008,15.33
+2017-03-31,T,Celkem,Nemoci kůže,6398,234594,36.67
+2017-03-31,T,Celkem,Nemoci močové a pohlavní soustavy,18728,633002,33.8
+2017-03-31,T,Celkem,Nemoci nervové soustavy,6659,577145,86.67
+2017-03-31,T,Celkem,Nemoci oběhové soustavy,13264,1058500,79.8
+2017-03-31,T,Celkem,Nemoci ostatní,41557,1569196,37.76
+2017-03-31,T,Celkem,Nemoci pohybové soustavy,86695,5918199,68.26
+2017-03-31,T,Celkem,Nemoci trávicí soustavy,32481,976198,30.05
+2017-03-31,T,Celkem,Tuberkulóza,33,7405,224.39
+2017-03-31,T,Celkem,"Těhotenství, porod, šestinedělí",9357,970012,103.67
+2017-03-31,T,Celkem,Zhoubné novotvary,3425,636722,185.9
+2017-03-31,T,Celkem,"Úrazy, otravy",49361,2676026,54.21
+2017-06-30,F,Žena,Nemoci duševní,14637,1329432,90.83
+2017-06-30,F,Žena,Nemoci dýchací soustavy,215327,3480073,16.16
+2017-06-30,F,Žena,Nemoci kůže,5737,198180,34.54
+2017-06-30,F,Žena,Nemoci močové a pohlavní soustavy,27940,909357,32.55
+2017-06-30,F,Žena,Nemoci nervové soustavy,8063,686078,85.09
+2017-06-30,F,Žena,Nemoci oběhové soustavy,11384,745160,65.46
+2017-06-30,F,Žena,Nemoci ostatní,47174,2080379,44.1
+2017-06-30,F,Žena,Nemoci pohybové soustavy,82037,5855119,71.37
+2017-06-30,F,Žena,Nemoci trávicí soustavy,28647,841966,29.39
+2017-06-30,F,Žena,Tuberkulóza,22,4932,224.18
+2017-06-30,F,Žena,"Těhotenství, porod, šestinedělí",18631,1962640,105.34
+2017-06-30,F,Žena,Zhoubné novotvary,3586,654264,182.45
+2017-06-30,F,Žena,"Úrazy, otravy",35907,1961457,54.63
+2017-06-30,M,Muž,Nemoci duševní,8011,629711,78.61
+2017-06-30,M,Muž,Nemoci dýchací soustavy,180830,2792116,15.44
+2017-06-30,M,Muž,Nemoci kůže,7675,265598,34.61
+2017-06-30,M,Muž,Nemoci močové a pohlavní soustavy,7700,297350,38.62
+2017-06-30,M,Muž,Nemoci nervové soustavy,5730,491233,85.73
+2017-06-30,M,Muž,Nemoci oběhové soustavy,14760,1324972,89.77
+2017-06-30,M,Muž,Nemoci ostatní,32104,985616,30.7
+2017-06-30,M,Muž,Nemoci pohybové soustavy,86068,5436536,63.17
+2017-06-30,M,Muž,Nemoci trávicí soustavy,34352,1048369,30.52
+2017-06-30,M,Muž,Tuberkulóza,41,9228,225.07
+2017-06-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2017-06-30,M,Muž,Zhoubné novotvary,3343,589285,176.27
+2017-06-30,M,Muž,"Úrazy, otravy",62395,3257756,52.21
+2017-06-30,T,Celkem,Nemoci duševní,22648,1959143,86.5
+2017-06-30,T,Celkem,Nemoci dýchací soustavy,396157,6272189,15.83
+2017-06-30,T,Celkem,Nemoci kůže,13412,463778,34.58
+2017-06-30,T,Celkem,Nemoci močové a pohlavní soustavy,35640,1206707,33.86
+2017-06-30,T,Celkem,Nemoci nervové soustavy,13793,1177311,85.36
+2017-06-30,T,Celkem,Nemoci oběhové soustavy,26144,2070132,79.18
+2017-06-30,T,Celkem,Nemoci ostatní,79278,3065995,38.67
+2017-06-30,T,Celkem,Nemoci pohybové soustavy,168105,11291655,67.17
+2017-06-30,T,Celkem,Nemoci trávicí soustavy,62999,1890335,30.01
+2017-06-30,T,Celkem,Tuberkulóza,63,14160,224.76
+2017-06-30,T,Celkem,"Těhotenství, porod, šestinedělí",18631,1962640,105.34
+2017-06-30,T,Celkem,Zhoubné novotvary,6929,1243549,179.47
+2017-06-30,T,Celkem,"Úrazy, otravy",98302,5219213,53.09
+2017-09-30,F,Žena,Nemoci duševní,21690,1970743,90.86
+2017-09-30,F,Žena,Nemoci dýchací soustavy,250539,4069979,16.24
+2017-09-30,F,Žena,Nemoci kůže,8541,290987,34.07
+2017-09-30,F,Žena,Nemoci močové a pohlavní soustavy,39021,1275535,32.69
+2017-09-30,F,Žena,Nemoci nervové soustavy,11638,1001558,86.06
+2017-09-30,F,Žena,Nemoci oběhové soustavy,15544,1061086,68.26
+2017-09-30,F,Žena,Nemoci ostatní,67535,3032430,44.9
+2017-09-30,F,Žena,Nemoci pohybové soustavy,118753,8549691,72.0
+2017-09-30,F,Žena,Nemoci trávicí soustavy,41590,1221015,29.36
+2017-09-30,F,Žena,Tuberkulóza,28,5758,205.64
+2017-09-30,F,Žena,"Těhotenství, porod, šestinedělí",27694,2934870,105.97
+2017-09-30,F,Žena,Zhoubné novotvary,5373,994658,185.12
+2017-09-30,F,Žena,"Úrazy, otravy",52828,2894710,54.79
+2017-09-30,M,Muž,Nemoci duševní,11941,945254,79.16
+2017-09-30,M,Muž,Nemoci dýchací soustavy,215907,3323750,15.39
+2017-09-30,M,Muž,Nemoci kůže,11663,387913,33.26
+2017-09-30,M,Muž,Nemoci močové a pohlavní soustavy,11126,427453,38.42
+2017-09-30,M,Muž,Nemoci nervové soustavy,8147,695832,85.41
+2017-09-30,M,Muž,Nemoci oběhové soustavy,20871,1887350,90.43
+2017-09-30,M,Muž,Nemoci ostatní,48241,1454756,30.16
+2017-09-30,M,Muž,Nemoci pohybové soustavy,124637,7722454,61.96
+2017-09-30,M,Muž,Nemoci trávicí soustavy,50659,1496886,29.55
+2017-09-30,M,Muž,Tuberkulóza,56,11963,213.63
+2017-09-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2017-09-30,M,Muž,Zhoubné novotvary,4955,880968,177.79
+2017-09-30,M,Muž,"Úrazy, otravy",95002,4828709,50.83
+2017-09-30,T,Celkem,Nemoci duševní,33631,2915997,86.71
+2017-09-30,T,Celkem,Nemoci dýchací soustavy,466446,7393729,15.85
+2017-09-30,T,Celkem,Nemoci kůže,20204,678900,33.6
+2017-09-30,T,Celkem,Nemoci močové a pohlavní soustavy,50147,1702988,33.96
+2017-09-30,T,Celkem,Nemoci nervové soustavy,19785,1697390,85.79
+2017-09-30,T,Celkem,Nemoci oběhové soustavy,36415,2948436,80.97
+2017-09-30,T,Celkem,Nemoci ostatní,115776,4487186,38.76
+2017-09-30,T,Celkem,Nemoci pohybové soustavy,243390,16272145,66.86
+2017-09-30,T,Celkem,Nemoci trávicí soustavy,92249,2717901,29.46
+2017-09-30,T,Celkem,Tuberkulóza,84,17721,210.96
+2017-09-30,T,Celkem,"Těhotenství, porod, šestinedělí",27694,2934870,105.97
+2017-09-30,T,Celkem,Zhoubné novotvary,10328,1875626,181.61
+2017-09-30,T,Celkem,"Úrazy, otravy",147830,7723419,52.25
+2017-12-31,F,Žena,Nemoci duševní,28886,2549390,88.26
+2017-12-31,F,Žena,Nemoci dýchací soustavy,338224,5364829,15.86
+2017-12-31,F,Žena,Nemoci kůže,11444,385411,33.68
+2017-12-31,F,Žena,Nemoci močové a pohlavní soustavy,54049,1699289,31.44
+2017-12-31,F,Žena,Nemoci nervové soustavy,15341,1274724,83.1
+2017-12-31,F,Žena,Nemoci oběhové soustavy,20969,1405691,67.04
+2017-12-31,F,Žena,Nemoci ostatní,90691,3976201,43.84
+2017-12-31,F,Žena,Nemoci pohybové soustavy,159456,11241271,70.5
+2017-12-31,F,Žena,Nemoci trávicí soustavy,55755,1605589,28.8
+2017-12-31,F,Žena,Tuberkulóza,33,6611,200.33
+2017-12-31,F,Žena,"Těhotenství, porod, šestinedělí",37021,3845228,103.87
+2017-12-31,F,Žena,Zhoubné novotvary,7208,1323741,183.67
+2017-12-31,F,Žena,"Úrazy, otravy",68902,3756324,54.52
+2017-12-31,M,Muž,Nemoci duševní,15957,1252901,78.51
+2017-12-31,M,Muž,Nemoci dýchací soustavy,294791,4416177,14.99
+2017-12-31,M,Muž,Nemoci kůže,15292,506102,33.06
+2017-12-31,M,Muž,Nemoci močové a pohlavní soustavy,15141,556293,36.74
+2017-12-31,M,Muž,Nemoci nervové soustavy,10636,882005,82.93
+2017-12-31,M,Muž,Nemoci oběhové soustavy,27449,2494849,90.89
+2017-12-31,M,Muž,Nemoci ostatní,63804,1904992,29.86
+2017-12-31,M,Muž,Nemoci pohybové soustavy,165102,10007296,60.61
+2017-12-31,M,Muž,Nemoci trávicí soustavy,66894,1954086,29.21
+2017-12-31,M,Muž,Tuberkulóza,73,15218,208.47
+2017-12-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2017-12-31,M,Muž,Zhoubné novotvary,6684,1193586,178.57
+2017-12-31,M,Muž,"Úrazy, otravy",124949,6320724,50.59
+2017-12-31,T,Celkem,Nemoci duševní,44843,3802291,84.79
+2017-12-31,T,Celkem,Nemoci dýchací soustavy,633015,9781006,15.45
+2017-12-31,T,Celkem,Nemoci kůže,26736,891513,33.33
+2017-12-31,T,Celkem,Nemoci močové a pohlavní soustavy,69190,2255582,32.6
+2017-12-31,T,Celkem,Nemoci nervové soustavy,25977,2156729,83.03
+2017-12-31,T,Celkem,Nemoci oběhové soustavy,48418,3900540,80.56
+2017-12-31,T,Celkem,Nemoci ostatní,154495,5881193,38.07
+2017-12-31,T,Celkem,Nemoci pohybové soustavy,324558,21248567,65.47
+2017-12-31,T,Celkem,Nemoci trávicí soustavy,122649,3559675,29.02
+2017-12-31,T,Celkem,Tuberkulóza,106,21829,205.93
+2017-12-31,T,Celkem,"Těhotenství, porod, šestinedělí",37021,3845228,103.87
+2017-12-31,T,Celkem,Zhoubné novotvary,13892,2517327,181.22
+2017-12-31,T,Celkem,"Úrazy, otravy",193851,10077048,51.98
+2018-03-31,F,Žena,Nemoci duševní,6708,625273,93.21
+2018-03-31,F,Žena,Nemoci dýchací soustavy,184044,2692798,14.63
+2018-03-31,F,Žena,Nemoci kůže,2779,103020,37.07
+2018-03-31,F,Žena,Nemoci močové a pohlavní soustavy,13980,453897,32.47
+2018-03-31,F,Žena,Nemoci nervové soustavy,3758,332646,88.52
+2018-03-31,F,Žena,Nemoci oběhové soustavy,5265,356080,67.63
+2018-03-31,F,Žena,Nemoci ostatní,24314,1023492,42.09
+2018-03-31,F,Žena,Nemoci pohybové soustavy,39105,2745756,70.21
+2018-03-31,F,Žena,Nemoci trávicí soustavy,12777,389399,30.48
+2018-03-31,F,Žena,Tuberkulóza,6,977,162.83
+2018-03-31,F,Žena,"Těhotenství, porod, šestinedělí",8695,886529,101.96
+2018-03-31,F,Žena,Zhoubné novotvary,1651,320638,194.21
+2018-03-31,F,Žena,"Úrazy, otravy",16229,905666,55.81
+2018-03-31,M,Muž,Nemoci duševní,3762,317786,84.47
+2018-03-31,M,Muž,Nemoci dýchací soustavy,153165,2157889,14.09
+2018-03-31,M,Muž,Nemoci kůže,3670,126122,34.37
+2018-03-31,M,Muž,Nemoci močové a pohlavní soustavy,3978,152367,38.3
+2018-03-31,M,Muž,Nemoci nervové soustavy,2760,232191,84.13
+2018-03-31,M,Muž,Nemoci oběhové soustavy,6925,606902,87.64
+2018-03-31,M,Muž,Nemoci ostatní,16246,494526,30.44
+2018-03-31,M,Muž,Nemoci pohybové soustavy,41727,2593801,62.16
+2018-03-31,M,Muž,Nemoci trávicí soustavy,15240,496637,32.59
+2018-03-31,M,Muž,Tuberkulóza,18,4058,225.44
+2018-03-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2018-03-31,M,Muž,Zhoubné novotvary,1604,278102,173.38
+2018-03-31,M,Muž,"Úrazy, otravy",27475,1489120,54.2
+2018-03-31,T,Celkem,Nemoci duševní,10470,943059,90.07
+2018-03-31,T,Celkem,Nemoci dýchací soustavy,337209,4850687,14.38
+2018-03-31,T,Celkem,Nemoci kůže,6449,229142,35.53
+2018-03-31,T,Celkem,Nemoci močové a pohlavní soustavy,17958,606264,33.76
+2018-03-31,T,Celkem,Nemoci nervové soustavy,6518,564837,86.66
+2018-03-31,T,Celkem,Nemoci oběhové soustavy,12190,962982,79.0
+2018-03-31,T,Celkem,Nemoci ostatní,40560,1518018,37.43
+2018-03-31,T,Celkem,Nemoci pohybové soustavy,80832,5339557,66.06
+2018-03-31,T,Celkem,Nemoci trávicí soustavy,28017,886036,31.62
+2018-03-31,T,Celkem,Tuberkulóza,24,5035,209.79
+2018-03-31,T,Celkem,"Těhotenství, porod, šestinedělí",8695,886529,101.96
+2018-03-31,T,Celkem,Zhoubné novotvary,3255,598740,183.94
+2018-03-31,T,Celkem,"Úrazy, otravy",43704,2394786,54.8
+2018-06-30,F,Žena,Nemoci duševní,14580,1305012,89.51
+2018-06-30,F,Žena,Nemoci dýchací soustavy,257310,4021900,15.63
+2018-06-30,F,Žena,Nemoci kůže,6143,212415,34.58
+2018-06-30,F,Žena,Nemoci močové a pohlavní soustavy,27797,911432,32.79
+2018-06-30,F,Žena,Nemoci nervové soustavy,8244,685250,83.12
+2018-06-30,F,Žena,Nemoci oběhové soustavy,11212,752540,67.12
+2018-06-30,F,Žena,Nemoci ostatní,49425,2129741,43.09
+2018-06-30,F,Žena,Nemoci pohybové soustavy,82941,5812838,70.08
+2018-06-30,F,Žena,Nemoci trávicí soustavy,27343,822173,30.07
+2018-06-30,F,Žena,Tuberkulóza,12,1592,132.67
+2018-06-30,F,Žena,"Těhotenství, porod, šestinedělí",17989,1855945,103.17
+2018-06-30,F,Žena,Zhoubné novotvary,3689,680675,184.51
+2018-06-30,F,Žena,"Úrazy, otravy",35460,1920201,54.15
+2018-06-30,M,Muž,Nemoci duševní,8248,686278,83.21
+2018-06-30,M,Muž,Nemoci dýchací soustavy,212770,3187532,14.98
+2018-06-30,M,Muž,Nemoci kůže,7911,265425,33.55
+2018-06-30,M,Muž,Nemoci močové a pohlavní soustavy,7942,302525,38.09
+2018-06-30,M,Muž,Nemoci nervové soustavy,5743,475809,82.85
+2018-06-30,M,Muž,Nemoci oběhové soustavy,14463,1270928,87.87
+2018-06-30,M,Muž,Nemoci ostatní,32945,995607,30.22
+2018-06-30,M,Muž,Nemoci pohybové soustavy,85182,5280513,61.99
+2018-06-30,M,Muž,Nemoci trávicí soustavy,32520,1016246,31.25
+2018-06-30,M,Muž,Tuberkulóza,31,7312,235.87
+2018-06-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2018-06-30,M,Muž,Zhoubné novotvary,3361,571679,170.09
+2018-06-30,M,Muž,"Úrazy, otravy",60530,3114944,51.46
+2018-06-30,T,Celkem,Nemoci duševní,22828,1991290,87.23
+2018-06-30,T,Celkem,Nemoci dýchací soustavy,470080,7209432,15.34
+2018-06-30,T,Celkem,Nemoci kůže,14054,477840,34.0
+2018-06-30,T,Celkem,Nemoci močové a pohlavní soustavy,35739,1213957,33.97
+2018-06-30,T,Celkem,Nemoci nervové soustavy,13987,1161059,83.01
+2018-06-30,T,Celkem,Nemoci oběhové soustavy,25675,2023468,78.81
+2018-06-30,T,Celkem,Nemoci ostatní,82370,3125348,37.94
+2018-06-30,T,Celkem,Nemoci pohybové soustavy,168123,11093351,65.98
+2018-06-30,T,Celkem,Nemoci trávicí soustavy,59863,1838419,30.71
+2018-06-30,T,Celkem,Tuberkulóza,43,8904,207.07
+2018-06-30,T,Celkem,"Těhotenství, porod, šestinedělí",17989,1855945,103.17
+2018-06-30,T,Celkem,Zhoubné novotvary,7050,1252354,177.64
+2018-06-30,T,Celkem,"Úrazy, otravy",95990,5035145,52.45
+2018-09-30,F,Žena,Nemoci duševní,21755,1941513,89.24
+2018-09-30,F,Žena,Nemoci dýchací soustavy,292405,4647543,15.89
+2018-09-30,F,Žena,Nemoci kůže,9185,318446,34.67
+2018-09-30,F,Žena,Nemoci močové a pohlavní soustavy,39026,1294058,33.16
+2018-09-30,F,Žena,Nemoci nervové soustavy,11936,993368,83.22
+2018-09-30,F,Žena,Nemoci oběhové soustavy,15619,1062776,68.04
+2018-09-30,F,Žena,Nemoci ostatní,71277,3094930,43.42
+2018-09-30,F,Žena,Nemoci pohybové soustavy,120623,8497997,70.45
+2018-09-30,F,Žena,Nemoci trávicí soustavy,40826,1191824,29.19
+2018-09-30,F,Žena,Tuberkulóza,22,4051,184.14
+2018-09-30,F,Žena,"Těhotenství, porod, šestinedělí",26407,2745300,103.96
+2018-09-30,F,Žena,Zhoubné novotvary,5496,1035190,188.35
+2018-09-30,F,Žena,"Úrazy, otravy",53087,2885318,54.35
+2018-09-30,M,Muž,Nemoci duševní,12310,1005729,81.7
+2018-09-30,M,Muž,Nemoci dýchací soustavy,246936,3740572,15.15
+2018-09-30,M,Muž,Nemoci kůže,12069,399498,33.1
+2018-09-30,M,Muž,Nemoci močové a pohlavní soustavy,11429,425202,37.2
+2018-09-30,M,Muž,Nemoci nervové soustavy,8291,679587,81.97
+2018-09-30,M,Muž,Nemoci oběhové soustavy,20945,1846893,88.18
+2018-09-30,M,Muž,Nemoci ostatní,50381,1478252,29.34
+2018-09-30,M,Muž,Nemoci pohybové soustavy,124664,7599919,60.96
+2018-09-30,M,Muž,Nemoci trávicí soustavy,49505,1488916,30.08
+2018-09-30,M,Muž,Tuberkulóza,52,11251,216.37
+2018-09-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2018-09-30,M,Muž,Zhoubné novotvary,4991,847073,169.72
+2018-09-30,M,Muž,"Úrazy, otravy",93305,4710924,50.49
+2018-09-30,T,Celkem,Nemoci duševní,34065,2947242,86.52
+2018-09-30,T,Celkem,Nemoci dýchací soustavy,539341,8388115,15.55
+2018-09-30,T,Celkem,Nemoci kůže,21254,717944,33.78
+2018-09-30,T,Celkem,Nemoci močové a pohlavní soustavy,50455,1719260,34.08
+2018-09-30,T,Celkem,Nemoci nervové soustavy,20227,1672955,82.71
+2018-09-30,T,Celkem,Nemoci oběhové soustavy,36564,2909669,79.58
+2018-09-30,T,Celkem,Nemoci ostatní,121658,4573182,37.59
+2018-09-30,T,Celkem,Nemoci pohybové soustavy,245287,16097916,65.63
+2018-09-30,T,Celkem,Nemoci trávicí soustavy,90331,2680740,29.68
+2018-09-30,T,Celkem,Tuberkulóza,74,15302,206.78
+2018-09-30,T,Celkem,"Těhotenství, porod, šestinedělí",26407,2745300,103.96
+2018-09-30,T,Celkem,Zhoubné novotvary,10487,1882263,179.49
+2018-09-30,T,Celkem,"Úrazy, otravy",146392,7596242,51.89
+2018-12-31,F,Žena,Nemoci duševní,28825,2521909,87.49
+2018-12-31,F,Žena,Nemoci dýchací soustavy,384701,5991119,15.55
+2018-12-31,F,Žena,Nemoci kůže,12070,410563,34.02
+2018-12-31,F,Žena,Nemoci močové a pohlavní soustavy,53409,1706919,31.96
+2018-12-31,F,Žena,Nemoci nervové soustavy,15544,1257595,80.91
+2018-12-31,F,Žena,Nemoci oběhové soustavy,20635,1361690,65.99
+2018-12-31,F,Žena,Nemoci ostatní,94306,4001619,42.47
+2018-12-31,F,Žena,Nemoci pohybové soustavy,160161,11005990,68.72
+2018-12-31,F,Žena,Nemoci trávicí soustavy,54753,1564911,28.58
+2018-12-31,F,Žena,Tuberkulóza,27,5092,188.59
+2018-12-31,F,Žena,"Těhotenství, porod, šestinedělí",34710,3551280,102.31
+2018-12-31,F,Žena,Zhoubné novotvary,7233,1356258,187.51
+2018-12-31,F,Žena,"Úrazy, otravy",68774,3703833,53.86
+2018-12-31,M,Muž,Nemoci duševní,16183,1307432,80.79
+2018-12-31,M,Muž,Nemoci dýchací soustavy,327884,4860255,14.83
+2018-12-31,M,Muž,Nemoci kůže,15839,519840,32.82
+2018-12-31,M,Muž,Nemoci močové a pohlavní soustavy,15311,560294,36.59
+2018-12-31,M,Muž,Nemoci nervové soustavy,10752,882266,82.06
+2018-12-31,M,Muž,Nemoci oběhové soustavy,27270,2407878,88.3
+2018-12-31,M,Muž,Nemoci ostatní,66496,1946594,29.26
+2018-12-31,M,Muž,Nemoci pohybové soustavy,163716,9828983,60.04
+2018-12-31,M,Muž,Nemoci trávicí soustavy,65099,1927872,29.61
+2018-12-31,M,Muž,Tuberkulóza,72,14982,208.08
+2018-12-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2018-12-31,M,Muž,Zhoubné novotvary,6599,1126742,170.74
+2018-12-31,M,Muž,"Úrazy, otravy",122096,6143064,50.31
+2018-12-31,T,Celkem,Nemoci duševní,45008,3829341,85.08
+2018-12-31,T,Celkem,Nemoci dýchací soustavy,712585,10851374,15.22
+2018-12-31,T,Celkem,Nemoci kůže,27909,930403,33.34
+2018-12-31,T,Celkem,Nemoci močové a pohlavní soustavy,68720,2267213,32.99
+2018-12-31,T,Celkem,Nemoci nervové soustavy,26296,2139861,81.38
+2018-12-31,T,Celkem,Nemoci oběhové soustavy,47905,3769568,78.69
+2018-12-31,T,Celkem,Nemoci ostatní,160802,5948213,37.01
+2018-12-31,T,Celkem,Nemoci pohybové soustavy,323877,20834973,64.33
+2018-12-31,T,Celkem,Nemoci trávicí soustavy,119852,3492783,29.14
+2018-12-31,T,Celkem,Tuberkulóza,99,20074,202.77
+2018-12-31,T,Celkem,"Těhotenství, porod, šestinedělí",34710,3551280,102.31
+2018-12-31,T,Celkem,Zhoubné novotvary,13832,2483000,179.51
+2018-12-31,T,Celkem,"Úrazy, otravy",190870,9846897,51.59
+2019-03-31,F,Žena,Nemoci duševní,7679,705897,91.93
+2019-03-31,F,Žena,Nemoci dýchací soustavy,146579,2331315,15.9
+2019-03-31,F,Žena,Nemoci kůže,2999,113797,37.94
+2019-03-31,F,Žena,Nemoci močové a pohlavní soustavy,14220,487853,34.31
+2019-03-31,F,Žena,Nemoci nervové soustavy,3843,334402,87.02
+2019-03-31,F,Žena,Nemoci oběhové soustavy,5955,417812,70.16
+2019-03-31,F,Žena,Nemoci ostatní,25810,1096176,42.47
+2019-03-31,F,Žena,Nemoci pohybové soustavy,43070,3255890,75.6
+2019-03-31,F,Žena,Nemoci trávicí soustavy,14177,444708,31.37
+2019-03-31,F,Žena,Tuberkulóza,7,981,140.14
+2019-03-31,F,Žena,"Těhotenství, porod, šestinedělí",8567,875576,102.2
+2019-03-31,F,Žena,Zhoubné novotvary,1843,361734,196.27
+2019-03-31,F,Žena,"Úrazy, otravy",17893,1025924,57.34
+2019-03-31,M,Muž,Nemoci duševní,4235,369830,87.33
+2019-03-31,M,Muž,Nemoci dýchací soustavy,122482,1889275,15.42
+2019-03-31,M,Muž,Nemoci kůže,3836,139414,36.34
+2019-03-31,M,Muž,Nemoci močové a pohlavní soustavy,4101,164793,40.18
+2019-03-31,M,Muž,Nemoci nervové soustavy,3000,263345,87.78
+2019-03-31,M,Muž,Nemoci oběhové soustavy,7603,691278,90.92
+2019-03-31,M,Muž,Nemoci ostatní,17527,566828,32.34
+2019-03-31,M,Muž,Nemoci pohybové soustavy,45546,3046712,66.89
+2019-03-31,M,Muž,Nemoci trávicí soustavy,16449,556846,33.85
+2019-03-31,M,Muž,Tuberkulóza,13,2807,215.92
+2019-03-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2019-03-31,M,Muž,Zhoubné novotvary,1663,288976,173.77
+2019-03-31,M,Muž,"Úrazy, otravy",29512,1696059,57.47
+2019-03-31,T,Celkem,Nemoci duševní,11914,1075727,90.29
+2019-03-31,T,Celkem,Nemoci dýchací soustavy,269061,4220590,15.69
+2019-03-31,T,Celkem,Nemoci kůže,6835,253211,37.05
+2019-03-31,T,Celkem,Nemoci močové a pohlavní soustavy,18321,652646,35.62
+2019-03-31,T,Celkem,Nemoci nervové soustavy,6843,597747,87.35
+2019-03-31,T,Celkem,Nemoci oběhové soustavy,13558,1109090,81.8
+2019-03-31,T,Celkem,Nemoci ostatní,43337,1663004,38.37
+2019-03-31,T,Celkem,Nemoci pohybové soustavy,88616,6302602,71.12
+2019-03-31,T,Celkem,Nemoci trávicí soustavy,30626,1001554,32.7
+2019-03-31,T,Celkem,Tuberkulóza,20,3788,189.4
+2019-03-31,T,Celkem,"Těhotenství, porod, šestinedělí",8567,875576,102.2
+2019-03-31,T,Celkem,Zhoubné novotvary,3506,650710,185.6
+2019-03-31,T,Celkem,"Úrazy, otravy",47405,2721983,57.42
+2019-06-30,F,Žena,Nemoci duševní,16204,1425845,87.99
+2019-06-30,F,Žena,Nemoci dýchací soustavy,213472,3523991,16.51
+2019-06-30,F,Žena,Nemoci kůže,6503,230736,35.48
+2019-06-30,F,Žena,Nemoci močové a pohlavní soustavy,28797,987522,34.29
+2019-06-30,F,Žena,Nemoci nervové soustavy,8455,704918,83.37
+2019-06-30,F,Žena,Nemoci oběhové soustavy,12111,822345,67.9
+2019-06-30,F,Žena,Nemoci ostatní,52486,2255040,42.96
+2019-06-30,F,Žena,Nemoci pohybové soustavy,89454,6648485,74.32
+2019-06-30,F,Žena,Nemoci trávicí soustavy,29789,914667,30.7
+2019-06-30,F,Žena,Tuberkulóza,18,3163,175.72
+2019-06-30,F,Žena,"Těhotenství, porod, šestinedělí",17563,1802844,102.65
+2019-06-30,F,Žena,Zhoubné novotvary,3909,720761,184.39
+2019-06-30,F,Žena,"Úrazy, otravy",36833,2099663,57.0
+2019-06-30,M,Muž,Nemoci duševní,8943,756845,84.63
+2019-06-30,M,Muž,Nemoci dýchací soustavy,176174,2773954,15.75
+2019-06-30,M,Muž,Nemoci kůže,8282,288226,34.8
+2019-06-30,M,Muž,Nemoci močové a pohlavní soustavy,8112,315429,38.88
+2019-06-30,M,Muž,Nemoci nervové soustavy,6153,529649,86.08
+2019-06-30,M,Muž,Nemoci oběhové soustavy,15145,1374377,90.75
+2019-06-30,M,Muž,Nemoci ostatní,35405,1108240,31.3
+2019-06-30,M,Muž,Nemoci pohybové soustavy,90069,5846036,64.91
+2019-06-30,M,Muž,Nemoci trávicí soustavy,34649,1121761,32.37
+2019-06-30,M,Muž,Tuberkulóza,32,6107,190.84
+2019-06-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2019-06-30,M,Muž,Zhoubné novotvary,3460,596947,172.53
+2019-06-30,M,Muž,"Úrazy, otravy",61870,3383430,54.69
+2019-06-30,T,Celkem,Nemoci duševní,25147,2182690,86.8
+2019-06-30,T,Celkem,Nemoci dýchací soustavy,389646,6297945,16.16
+2019-06-30,T,Celkem,Nemoci kůže,14785,518962,35.1
+2019-06-30,T,Celkem,Nemoci močové a pohlavní soustavy,36909,1302951,35.3
+2019-06-30,T,Celkem,Nemoci nervové soustavy,14608,1234567,84.51
+2019-06-30,T,Celkem,Nemoci oběhové soustavy,27256,2196722,80.6
+2019-06-30,T,Celkem,Nemoci ostatní,87891,3363280,38.27
+2019-06-30,T,Celkem,Nemoci pohybové soustavy,179523,12494521,69.6
+2019-06-30,T,Celkem,Nemoci trávicí soustavy,64438,2036428,31.6
+2019-06-30,T,Celkem,Tuberkulóza,50,9270,185.4
+2019-06-30,T,Celkem,"Těhotenství, porod, šestinedělí",17563,1802844,102.65
+2019-06-30,T,Celkem,Zhoubné novotvary,7369,1317708,178.82
+2019-06-30,T,Celkem,"Úrazy, otravy",98703,5483093,55.55
+2019-09-30,F,Žena,Nemoci duševní,23926,2115058,88.4
+2019-09-30,F,Žena,Nemoci dýchací soustavy,259048,4253067,16.42
+2019-09-30,F,Žena,Nemoci kůže,9928,339985,34.25
+2019-09-30,F,Žena,Nemoci močové a pohlavní soustavy,41959,1390830,33.15
+2019-09-30,F,Žena,Nemoci nervové soustavy,12412,1018350,82.05
+2019-09-30,F,Žena,Nemoci oběhové soustavy,16681,1148481,68.85
+2019-09-30,F,Žena,Nemoci ostatní,78250,3267203,41.75
+2019-09-30,F,Žena,Nemoci pohybové soustavy,132716,9766614,73.59
+2019-09-30,F,Žena,Nemoci trávicí soustavy,45919,1338429,29.15
+2019-09-30,F,Žena,Tuberkulóza,28,4480,160.0
+2019-09-30,F,Žena,"Těhotenství, porod, šestinedělí",26079,2666355,102.24
+2019-09-30,F,Žena,Zhoubné novotvary,5839,1104811,189.21
+2019-09-30,F,Žena,"Úrazy, otravy",55476,3111817,56.09
+2019-09-30,M,Muž,Nemoci duševní,13219,1096984,82.99
+2019-09-30,M,Muž,Nemoci dýchací soustavy,219249,3404595,15.53
+2019-09-30,M,Muž,Nemoci kůže,12981,425028,32.74
+2019-09-30,M,Muž,Nemoci močové a pohlavní soustavy,12117,462612,38.18
+2019-09-30,M,Muž,Nemoci nervové soustavy,8927,765358,85.74
+2019-09-30,M,Muž,Nemoci oběhové soustavy,21834,1953133,89.45
+2019-09-30,M,Muž,Nemoci ostatní,56458,1651218,29.25
+2019-09-30,M,Muž,Nemoci pohybové soustavy,135047,8400179,62.2
+2019-09-30,M,Muž,Nemoci trávicí soustavy,53796,1606431,29.86
+2019-09-30,M,Muž,Tuberkulóza,55,11263,204.78
+2019-09-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2019-09-30,M,Muž,Zhoubné novotvary,5133,894224,174.21
+2019-09-30,M,Muž,"Úrazy, otravy",96000,5030808,52.4
+2019-09-30,T,Celkem,Nemoci duševní,37145,3212042,86.47
+2019-09-30,T,Celkem,Nemoci dýchací soustavy,478297,7657662,16.01
+2019-09-30,T,Celkem,Nemoci kůže,22909,765013,33.39
+2019-09-30,T,Celkem,Nemoci močové a pohlavní soustavy,54076,1853442,34.27
+2019-09-30,T,Celkem,Nemoci nervové soustavy,21339,1783708,83.59
+2019-09-30,T,Celkem,Nemoci oběhové soustavy,38515,3101614,80.53
+2019-09-30,T,Celkem,Nemoci ostatní,134708,4918421,36.51
+2019-09-30,T,Celkem,Nemoci pohybové soustavy,267763,18166793,67.85
+2019-09-30,T,Celkem,Nemoci trávicí soustavy,99715,2944860,29.53
+2019-09-30,T,Celkem,Tuberkulóza,83,15743,189.67
+2019-09-30,T,Celkem,"Těhotenství, porod, šestinedělí",26079,2666355,102.24
+2019-09-30,T,Celkem,Zhoubné novotvary,10972,1999035,182.19
+2019-09-30,T,Celkem,"Úrazy, otravy",151476,8142625,53.76
+2019-12-31,F,Žena,Nemoci duševní,31000,2674410,86.07
+2019-12-31,F,Žena,Nemoci dýchací soustavy,364133,5781930,15.83
+2019-12-31,F,Žena,Nemoci kůže,13339,447861,33.5
+2019-12-31,F,Žena,Nemoci močové a pohlavní soustavy,59073,1859720,31.41
+2019-12-31,F,Žena,Nemoci nervové soustavy,16529,1314555,79.34
+2019-12-31,F,Žena,Nemoci oběhové soustavy,22629,1513382,66.72
+2019-12-31,F,Žena,Nemoci ostatní,107424,4316911,40.09
+2019-12-31,F,Žena,Nemoci pohybové soustavy,178549,12767582,71.34
+2019-12-31,F,Žena,Nemoci trávicí soustavy,62503,1765357,28.18
+2019-12-31,F,Žena,Tuberkulóza,37,5610,152.5
+2019-12-31,F,Žena,"Těhotenství, porod, šestinedělí",34420,3444267,99.83
+2019-12-31,F,Žena,Zhoubné novotvary,7776,1460486,187.38
+2019-12-31,F,Žena,"Úrazy, otravy",72642,4021351,55.23
+2019-12-31,M,Muž,Nemoci duševní,16732,1357783,80.96
+2019-12-31,M,Muž,Nemoci dýchací soustavy,309142,4652902,15.02
+2019-12-31,M,Muž,Nemoci kůže,17589,562345,31.9
+2019-12-31,M,Muž,Nemoci močové a pohlavní soustavy,16648,613264,36.75
+2019-12-31,M,Muž,Nemoci nervové soustavy,11667,988560,84.53
+2019-12-31,M,Muž,Nemoci oběhové soustavy,28832,2555938,88.44
+2019-12-31,M,Muž,Nemoci ostatní,76403,2191027,28.61
+2019-12-31,M,Muž,Nemoci pohybové soustavy,180534,10937557,60.44
+2019-12-31,M,Muž,Nemoci trávicí soustavy,71768,2094894,29.12
+2019-12-31,M,Muž,Tuberkulóza,77,15891,206.85
+2019-12-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2019-12-31,M,Muž,Zhoubné novotvary,6730,1167709,173.11
+2019-12-31,M,Muž,"Úrazy, otravy",126239,6547427,51.74
+2019-12-31,T,Celkem,Nemoci duševní,47732,4032193,84.28
+2019-12-31,T,Celkem,Nemoci dýchací soustavy,673274,10434832,15.46
+2019-12-31,T,Celkem,Nemoci kůže,30928,1010206,32.59
+2019-12-31,T,Celkem,Nemoci močové a pohlavní soustavy,75720,2472984,32.58
+2019-12-31,T,Celkem,Nemoci nervové soustavy,28196,2303115,81.49
+2019-12-31,T,Celkem,Nemoci oběhové soustavy,51461,4069320,78.89
+2019-12-31,T,Celkem,Nemoci ostatní,183826,6507939,35.32
+2019-12-31,T,Celkem,Nemoci pohybové soustavy,359083,23705140,65.86
+2019-12-31,T,Celkem,Nemoci trávicí soustavy,134272,3860251,28.68
+2019-12-31,T,Celkem,Tuberkulóza,113,21502,189.25
+2019-12-31,T,Celkem,"Těhotenství, porod, šestinedělí",34420,3444267,99.83
+2019-12-31,T,Celkem,Zhoubné novotvary,14505,2628195,180.76
+2019-12-31,T,Celkem,"Úrazy, otravy",198881,10568778,53.01
+2020-03-31,F,Žena,Nemoci duševní,8145,703428,86.36
+2020-03-31,F,Žena,Nemoci dýchací soustavy,161170,2302178,14.28
+2020-03-31,F,Žena,Nemoci kůže,3202,103038,32.18
+2020-03-31,F,Žena,Nemoci močové a pohlavní soustavy,16001,479127,29.94
+2020-03-31,F,Žena,Nemoci nervové soustavy,4307,341532,79.3
+2020-03-31,F,Žena,Nemoci oběhové soustavy,6116,391043,63.94
+2020-03-31,F,Žena,Nemoci ostatní,40714,1235726,30.35
+2020-03-31,F,Žena,Nemoci pohybové soustavy,46483,3216945,69.21
+2020-03-31,F,Žena,Nemoci trávicí soustavy,15699,455499,29.01
+2020-03-31,F,Žena,Tuberkulóza,15,2736,182.4
+2020-03-31,F,Žena,"Těhotenství, porod, šestinedělí",8118,790949,97.43
+2020-03-31,F,Žena,Zhoubné novotvary,1947,352214,180.9
+2020-03-31,F,Žena,"Úrazy, otravy",16663,936435,56.2
+2020-03-31,M,Muž,Nemoci duševní,4264,352697,82.72
+2020-03-31,M,Muž,Nemoci dýchací soustavy,133970,1845779,13.78
+2020-03-31,M,Muž,Nemoci kůže,4280,141494,33.06
+2020-03-31,M,Muž,Nemoci močové a pohlavní soustavy,4476,160188,35.79
+2020-03-31,M,Muž,Nemoci nervové soustavy,3087,248197,80.4
+2020-03-31,M,Muž,Nemoci oběhové soustavy,7701,679427,88.23
+2020-03-31,M,Muž,Nemoci ostatní,32357,728241,22.51
+2020-03-31,M,Muž,Nemoci pohybové soustavy,48599,2947576,60.65
+2020-03-31,M,Muž,Nemoci trávicí soustavy,17965,560889,31.22
+2020-03-31,M,Muž,Tuberkulóza,20,3829,191.45
+2020-03-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2020-03-31,M,Muž,Zhoubné novotvary,1638,278269,169.88
+2020-03-31,M,Muž,"Úrazy, otravy",27831,1545478,55.53
+2020-03-31,T,Celkem,Nemoci duševní,12409,1056125,85.11
+2020-03-31,T,Celkem,Nemoci dýchací soustavy,295140,4147957,14.05
+2020-03-31,T,Celkem,Nemoci kůže,7482,244532,32.68
+2020-03-31,T,Celkem,Nemoci močové a pohlavní soustavy,20477,639315,31.22
+2020-03-31,T,Celkem,Nemoci nervové soustavy,7394,589729,79.76
+2020-03-31,T,Celkem,Nemoci oběhové soustavy,13817,1070470,77.47
+2020-03-31,T,Celkem,Nemoci ostatní,73070,1963957,26.88
+2020-03-31,T,Celkem,Nemoci pohybové soustavy,95082,6164521,64.83
+2020-03-31,T,Celkem,Nemoci trávicí soustavy,33664,1016388,30.19
+2020-03-31,T,Celkem,Tuberkulóza,35,6565,187.57
+2020-03-31,T,Celkem,"Těhotenství, porod, šestinedělí",8119,790959,97.42
+2020-03-31,T,Celkem,Zhoubné novotvary,3585,630483,175.87
+2020-03-31,T,Celkem,"Úrazy, otravy",44494,2481913,55.78
+2020-06-30,F,Žena,Nemoci duševní,16879,1507591,89.32
+2020-06-30,F,Žena,Nemoci dýchací soustavy,211746,3948537,18.65
+2020-06-30,F,Žena,Nemoci kůže,5989,227035,37.91
+2020-06-30,F,Žena,Nemoci močové a pohlavní soustavy,27844,975196,35.02
+2020-06-30,F,Žena,Nemoci nervové soustavy,8618,711747,82.59
+2020-06-30,F,Žena,Nemoci oběhové soustavy,11389,802777,70.49
+2020-06-30,F,Žena,Nemoci ostatní,78976,2693539,34.11
+2020-06-30,F,Žena,Nemoci pohybové soustavy,100410,7261454,72.32
+2020-06-30,F,Žena,Nemoci trávicí soustavy,27467,927738,33.78
+2020-06-30,F,Žena,Tuberkulóza,19,3523,185.42
+2020-06-30,F,Žena,"Těhotenství, porod, šestinedělí",16836,1721035,102.22
+2020-06-30,F,Žena,Zhoubné novotvary,3933,713863,181.51
+2020-06-30,F,Žena,"Úrazy, otravy",31525,1907995,60.52
+2020-06-30,M,Muž,Nemoci duševní,8773,754118,85.96
+2020-06-30,M,Muž,Nemoci dýchací soustavy,179309,3111565,17.35
+2020-06-30,M,Muž,Nemoci kůže,8004,285264,35.64
+2020-06-30,M,Muž,Nemoci močové a pohlavní soustavy,7975,314151,39.39
+2020-06-30,M,Muž,Nemoci nervové soustavy,6140,523242,85.22
+2020-06-30,M,Muž,Nemoci oběhové soustavy,14885,1373912,92.3
+2020-06-30,M,Muž,Nemoci ostatní,68904,1659996,24.09
+2020-06-30,M,Muž,Nemoci pohybové soustavy,105558,6642351,62.93
+2020-06-30,M,Muž,Nemoci trávicí soustavy,33174,1125702,33.93
+2020-06-30,M,Muž,Tuberkulóza,44,8881,201.84
+2020-06-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2020-06-30,M,Muž,Zhoubné novotvary,3344,588050,175.85
+2020-06-30,M,Muž,"Úrazy, otravy",55035,3144900,57.14
+2020-06-30,T,Celkem,Nemoci duševní,25652,2261709,88.17
+2020-06-30,T,Celkem,Nemoci dýchací soustavy,391055,7060102,18.05
+2020-06-30,T,Celkem,Nemoci kůže,13993,512299,36.61
+2020-06-30,T,Celkem,Nemoci močové a pohlavní soustavy,35819,1289347,36.0
+2020-06-30,T,Celkem,Nemoci nervové soustavy,14758,1234989,83.68
+2020-06-30,T,Celkem,Nemoci oběhové soustavy,26274,2176689,82.85
+2020-06-30,T,Celkem,Nemoci ostatní,147880,4353535,29.44
+2020-06-30,T,Celkem,Nemoci pohybové soustavy,205968,13903805,67.5
+2020-06-30,T,Celkem,Nemoci trávicí soustavy,60641,2053440,33.86
+2020-06-30,T,Celkem,Tuberkulóza,63,12404,196.89
+2020-06-30,T,Celkem,"Těhotenství, porod, šestinedělí",16836,1721035,102.22
+2020-06-30,T,Celkem,Zhoubné novotvary,7277,1301913,178.91
+2020-06-30,T,Celkem,"Úrazy, otravy",86560,5052895,58.37
+2020-09-30,F,Žena,Nemoci duševní,24491,2285076,93.3
+2020-09-30,F,Žena,Nemoci dýchací soustavy,259999,4767206,18.34
+2020-09-30,F,Žena,Nemoci kůže,9166,334738,36.52
+2020-09-30,F,Žena,Nemoci močové a pohlavní soustavy,40664,1420326,34.93
+2020-09-30,F,Žena,Nemoci nervové soustavy,12635,1056718,83.63
+2020-09-30,F,Žena,Nemoci oběhové soustavy,15653,1145651,73.19
+2020-09-30,F,Žena,Nemoci ostatní,129909,4154843,31.98
+2020-09-30,F,Žena,Nemoci pohybové soustavy,143222,10862658,75.84
+2020-09-30,F,Žena,Nemoci trávicí soustavy,41033,1336990,32.58
+2020-09-30,F,Žena,Tuberkulóza,29,5852,201.79
+2020-09-30,F,Žena,"Těhotenství, porod, šestinedělí",24578,2581186,105.02
+2020-09-30,F,Žena,Zhoubné novotvary,5917,1126521,190.39
+2020-09-30,F,Žena,"Úrazy, otravy",49382,2931921,59.37
+2020-09-30,M,Muž,Nemoci duševní,13143,1143314,86.99
+2020-09-30,M,Muž,Nemoci dýchací soustavy,222514,3809204,17.12
+2020-09-30,M,Muž,Nemoci kůže,12526,427308,34.11
+2020-09-30,M,Muž,Nemoci močové a pohlavní soustavy,11795,464727,39.4
+2020-09-30,M,Muž,Nemoci nervové soustavy,9037,784243,86.78
+2020-09-30,M,Muž,Nemoci oběhové soustavy,21151,1981642,93.69
+2020-09-30,M,Muž,Nemoci ostatní,111825,2549998,22.8
+2020-09-30,M,Muž,Nemoci pohybové soustavy,150936,9691428,64.21
+2020-09-30,M,Muž,Nemoci trávicí soustavy,50284,1640445,32.62
+2020-09-30,M,Muž,Tuberkulóza,65,12375,190.38
+2020-09-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2020-09-30,M,Muž,Zhoubné novotvary,4920,894374,181.78
+2020-09-30,M,Muž,"Úrazy, otravy",87444,4782525,54.69
+2020-09-30,T,Celkem,Nemoci duševní,37634,3428390,91.1
+2020-09-30,T,Celkem,Nemoci dýchací soustavy,482513,8576410,17.77
+2020-09-30,T,Celkem,Nemoci kůže,21692,762046,35.13
+2020-09-30,T,Celkem,Nemoci močové a pohlavní soustavy,52459,1885053,35.93
+2020-09-30,T,Celkem,Nemoci nervové soustavy,21672,1840961,84.95
+2020-09-30,T,Celkem,Nemoci oběhové soustavy,36804,3127293,84.97
+2020-09-30,T,Celkem,Nemoci ostatní,241731,6704794,27.74
+2020-09-30,T,Celkem,Nemoci pohybové soustavy,294158,20554086,69.87
+2020-09-30,T,Celkem,Nemoci trávicí soustavy,91317,2977435,32.61
+2020-09-30,T,Celkem,Tuberkulóza,94,18227,193.9
+2020-09-30,T,Celkem,"Těhotenství, porod, šestinedělí",24581,2581233,105.01
+2020-09-30,T,Celkem,Zhoubné novotvary,10837,2020895,186.48
+2020-09-30,T,Celkem,"Úrazy, otravy",136826,7714446,56.38
+2020-12-31,F,Žena,Nemoci duševní,31955,2982861,93.35
+2020-12-31,F,Žena,Nemoci dýchací soustavy,360813,6477977,17.95
+2020-12-31,F,Žena,Nemoci kůže,11891,431539,36.29
+2020-12-31,F,Žena,Nemoci močové a pohlavní soustavy,55026,1874670,34.07
+2020-12-31,F,Žena,Nemoci nervové soustavy,16766,1375301,82.03
+2020-12-31,F,Žena,Nemoci oběhové soustavy,20467,1486114,72.61
+2020-12-31,F,Žena,Nemoci ostatní,351795,7927014,22.53
+2020-12-31,F,Žena,Nemoci pohybové soustavy,190197,14297680,75.17
+2020-12-31,F,Žena,Nemoci trávicí soustavy,55103,1734581,31.48
+2020-12-31,F,Žena,Tuberkulóza,36,7315,203.19
+2020-12-31,F,Žena,"Těhotenství, porod, šestinedělí",32080,3313494,103.29
+2020-12-31,F,Žena,Zhoubné novotvary,7810,1506814,192.93
+2020-12-31,F,Žena,"Úrazy, otravy",64294,3836785,59.68
+2020-12-31,M,Muž,Nemoci duševní,17312,1494794,86.34
+2020-12-31,M,Muž,Nemoci dýchací soustavy,314180,5267762,16.77
+2020-12-31,M,Muž,Nemoci kůže,16370,566176,34.59
+2020-12-31,M,Muž,Nemoci močové a pohlavní soustavy,15742,615950,39.13
+2020-12-31,M,Muž,Nemoci nervové soustavy,11754,1024039,87.12
+2020-12-31,M,Muž,Nemoci oběhové soustavy,27547,2612127,94.82
+2020-12-31,M,Muž,Nemoci ostatní,306972,5435059,17.71
+2020-12-31,M,Muž,Nemoci pohybové soustavy,198462,12625988,63.62
+2020-12-31,M,Muž,Nemoci trávicí soustavy,66649,2110730,31.67
+2020-12-31,M,Muž,Tuberkulóza,77,15500,201.3
+2020-12-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2020-12-31,M,Muž,Zhoubné novotvary,6467,1176902,181.99
+2020-12-31,M,Muž,"Úrazy, otravy",113968,6259920,54.93
+2020-12-31,T,Celkem,Nemoci duševní,49267,4477655,90.89
+2020-12-31,T,Celkem,Nemoci dýchací soustavy,674993,11745739,17.4
+2020-12-31,T,Celkem,Nemoci kůže,28261,997715,35.3
+2020-12-31,T,Celkem,Nemoci močové a pohlavní soustavy,70768,2490620,35.19
+2020-12-31,T,Celkem,Nemoci nervové soustavy,28520,2399340,84.13
+2020-12-31,T,Celkem,Nemoci oběhové soustavy,48014,4098241,85.36
+2020-12-31,T,Celkem,Nemoci ostatní,658767,13362073,20.28
+2020-12-31,T,Celkem,Nemoci pohybové soustavy,388659,26923668,69.27
+2020-12-31,T,Celkem,Nemoci trávicí soustavy,121752,3845311,31.58
+2020-12-31,T,Celkem,Tuberkulóza,113,22815,201.9
+2020-12-31,T,Celkem,"Těhotenství, porod, šestinedělí",32080,3313494,103.29
+2020-12-31,T,Celkem,Zhoubné novotvary,14277,2683716,187.97
+2020-12-31,T,Celkem,"Úrazy, otravy",178262,10096705,56.64
+2021-03-31,F,Žena,Nemoci duševní,7924,831588,104.95
+2021-03-31,F,Žena,Nemoci dýchací soustavy,74243,1458805,19.65
+2021-03-31,F,Žena,Nemoci kůže,2570,104761,40.76
+2021-03-31,F,Žena,Nemoci močové a pohlavní soustavy,12706,442050,34.79
+2021-03-31,F,Žena,Nemoci nervové soustavy,4310,369882,85.82
+2021-03-31,F,Žena,Nemoci oběhové soustavy,4674,358205,76.64
+2021-03-31,F,Žena,Nemoci ostatní,249181,4698142,18.85
+2021-03-31,F,Žena,Nemoci pohybové soustavy,44982,3788237,84.22
+2021-03-31,F,Žena,Nemoci trávicí soustavy,11731,388457,33.11
+2021-03-31,F,Žena,Tuberkulóza,6,933,155.5
+2021-03-31,F,Žena,"Těhotenství, porod, šestinedělí",7477,801201,107.16
+2021-03-31,F,Žena,Zhoubné novotvary,1801,372155,206.64
+2021-03-31,F,Žena,"Úrazy, otravy",15476,972523,62.84
+2021-03-31,M,Muž,Nemoci duševní,4471,430222,96.23
+2021-03-31,M,Muž,Nemoci dýchací soustavy,72883,1340423,18.39
+2021-03-31,M,Muž,Nemoci kůže,3603,138605,38.47
+2021-03-31,M,Muž,Nemoci močové a pohlavní soustavy,3538,141919,40.11
+2021-03-31,M,Muž,Nemoci nervové soustavy,3015,259665,86.12
+2021-03-31,M,Muž,Nemoci oběhové soustavy,6741,664070,98.51
+2021-03-31,M,Muž,Nemoci ostatní,246268,4085085,16.59
+2021-03-31,M,Muž,Nemoci pohybové soustavy,50695,3516132,69.36
+2021-03-31,M,Muž,Nemoci trávicí soustavy,14751,483708,32.79
+2021-03-31,M,Muž,Tuberkulóza,13,2009,154.54
+2021-03-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2021-03-31,M,Muž,Zhoubné novotvary,1520,280218,184.35
+2021-03-31,M,Muž,"Úrazy, otravy",25521,1558926,61.08
+2021-03-31,T,Celkem,Nemoci duševní,12395,1261810,101.8
+2021-03-31,T,Celkem,Nemoci dýchací soustavy,147126,2799228,19.03
+2021-03-31,T,Celkem,Nemoci kůže,6173,243366,39.42
+2021-03-31,T,Celkem,Nemoci močové a pohlavní soustavy,16244,583969,35.95
+2021-03-31,T,Celkem,Nemoci nervové soustavy,7325,629547,85.94
+2021-03-31,T,Celkem,Nemoci oběhové soustavy,11415,1022275,89.56
+2021-03-31,T,Celkem,Nemoci ostatní,495449,8783227,17.73
+2021-03-31,T,Celkem,Nemoci pohybové soustavy,95677,7304369,76.34
+2021-03-31,T,Celkem,Nemoci trávicí soustavy,26482,872165,32.93
+2021-03-31,T,Celkem,Tuberkulóza,19,2942,154.84
+2021-03-31,T,Celkem,"Těhotenství, porod, šestinedělí",7477,801201,107.16
+2021-03-31,T,Celkem,Zhoubné novotvary,3321,652373,196.44
+2021-03-31,T,Celkem,"Úrazy, otravy",40997,2531449,61.75
+2021-06-30,F,Žena,Nemoci duševní,17678,1773585,100.33
+2021-06-30,F,Žena,Nemoci dýchací soustavy,117055,2346085,20.04
+2021-06-30,F,Žena,Nemoci kůže,5914,213392,36.08
+2021-06-30,F,Žena,Nemoci močové a pohlavní soustavy,26547,914655,34.45
+2021-06-30,F,Žena,Nemoci nervové soustavy,9670,798209,82.54
+2021-06-30,F,Žena,Nemoci oběhové soustavy,10503,746253,71.05
+2021-06-30,F,Žena,Nemoci ostatní,352363,7705163,21.87
+2021-06-30,F,Žena,Nemoci pohybové soustavy,95549,7775100,81.37
+2021-06-30,F,Žena,Nemoci trávicí soustavy,26523,820973,30.95
+2021-06-30,F,Žena,Tuberkulóza,14,3165,226.07
+2021-06-30,F,Žena,"Těhotenství, porod, šestinedělí",15176,1599580,105.4
+2021-06-30,F,Žena,Zhoubné novotvary,3864,765226,198.04
+2021-06-30,F,Žena,"Úrazy, otravy",33820,2019454,59.71
+2021-06-30,M,Muž,Nemoci duševní,9700,899931,92.78
+2021-06-30,M,Muž,Nemoci dýchací soustavy,113902,2157501,18.94
+2021-06-30,M,Muž,Nemoci kůže,8129,290373,35.72
+2021-06-30,M,Muž,Nemoci močové a pohlavní soustavy,7636,301177,39.44
+2021-06-30,M,Muž,Nemoci nervové soustavy,6683,554497,82.97
+2021-06-30,M,Muž,Nemoci oběhové soustavy,14345,1362323,94.97
+2021-06-30,M,Muž,Nemoci ostatní,353064,6644033,18.82
+2021-06-30,M,Muž,Nemoci pohybové soustavy,103106,6978507,67.68
+2021-06-30,M,Muž,Nemoci trávicí soustavy,32457,1002858,30.9
+2021-06-30,M,Muž,Tuberkulóza,24,3752,156.33
+2021-06-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2021-06-30,M,Muž,Zhoubné novotvary,3232,566377,175.24
+2021-06-30,M,Muž,"Úrazy, otravy",56182,3167022,56.37
+2021-06-30,T,Celkem,Nemoci duševní,27378,2673516,97.65
+2021-06-30,T,Celkem,Nemoci dýchací soustavy,230957,4503586,19.5
+2021-06-30,T,Celkem,Nemoci kůže,14043,503765,35.87
+2021-06-30,T,Celkem,Nemoci močové a pohlavní soustavy,34183,1215832,35.57
+2021-06-30,T,Celkem,Nemoci nervové soustavy,16353,1352706,82.72
+2021-06-30,T,Celkem,Nemoci oběhové soustavy,24848,2108576,84.86
+2021-06-30,T,Celkem,Nemoci ostatní,705427,14349196,20.34
+2021-06-30,T,Celkem,Nemoci pohybové soustavy,198655,14753607,74.27
+2021-06-30,T,Celkem,Nemoci trávicí soustavy,58980,1823831,30.92
+2021-06-30,T,Celkem,Tuberkulóza,38,6917,182.03
+2021-06-30,T,Celkem,"Těhotenství, porod, šestinedělí",15176,1599580,105.4
+2021-06-30,T,Celkem,Zhoubné novotvary,7096,1331603,187.66
+2021-06-30,T,Celkem,"Úrazy, otravy",90002,5186476,57.63
+2021-09-30,F,Žena,Nemoci duševní,25673,2592759,100.99
+2021-09-30,F,Žena,Nemoci dýchací soustavy,173488,3150770,18.16
+2021-09-30,F,Žena,Nemoci kůže,9121,311328,34.13
+2021-09-30,F,Žena,Nemoci močové a pohlavní soustavy,39718,1341168,33.77
+2021-09-30,F,Žena,Nemoci nervové soustavy,13922,1146961,82.38
+2021-09-30,F,Žena,Nemoci oběhové soustavy,14993,1083728,72.28
+2021-09-30,F,Žena,Nemoci ostatní,388156,9058689,23.34
+2021-09-30,F,Žena,Nemoci pohybové soustavy,137056,11013932,80.36
+2021-09-30,F,Žena,Nemoci trávicí soustavy,41878,1223736,29.22
+2021-09-30,F,Žena,Tuberkulóza,26,5014,192.85
+2021-09-30,F,Žena,"Těhotenství, porod, šestinedělí",22513,2368964,105.23
+2021-09-30,F,Žena,Zhoubné novotvary,5866,1165111,198.62
+2021-09-30,F,Žena,"Úrazy, otravy",52062,2977815,57.2
+2021-09-30,M,Muž,Nemoci duševní,14314,1309153,91.46
+2021-09-30,M,Muž,Nemoci dýchací soustavy,166889,2900702,17.38
+2021-09-30,M,Muž,Nemoci kůže,12685,427756,33.72
+2021-09-30,M,Muž,Nemoci močové a pohlavní soustavy,11660,438058,37.57
+2021-09-30,M,Muž,Nemoci nervové soustavy,9661,809298,83.77
+2021-09-30,M,Muž,Nemoci oběhové soustavy,20711,1950295,94.17
+2021-09-30,M,Muž,Nemoci ostatní,383460,7504798,19.57
+2021-09-30,M,Muž,Nemoci pohybové soustavy,148367,9765528,65.82
+2021-09-30,M,Muž,Nemoci trávicí soustavy,51601,1520500,29.47
+2021-09-30,M,Muž,Tuberkulóza,37,5814,157.14
+2021-09-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2021-09-30,M,Muž,Zhoubné novotvary,4747,846355,178.29
+2021-09-30,M,Muž,"Úrazy, otravy",89929,4720475,52.49
+2021-09-30,T,Celkem,Nemoci duševní,39987,3901912,97.58
+2021-09-30,T,Celkem,Nemoci dýchací soustavy,340377,6051472,17.78
+2021-09-30,T,Celkem,Nemoci kůže,21806,739084,33.89
+2021-09-30,T,Celkem,Nemoci močové a pohlavní soustavy,51378,1779226,34.63
+2021-09-30,T,Celkem,Nemoci nervové soustavy,23583,1956259,82.95
+2021-09-30,T,Celkem,Nemoci oběhové soustavy,35704,3034023,84.98
+2021-09-30,T,Celkem,Nemoci ostatní,771616,16563487,21.47
+2021-09-30,T,Celkem,Nemoci pohybové soustavy,285423,20779460,72.8
+2021-09-30,T,Celkem,Nemoci trávicí soustavy,93479,2744236,29.36
+2021-09-30,T,Celkem,Tuberkulóza,63,10828,171.87
+2021-09-30,T,Celkem,"Těhotenství, porod, šestinedělí",22513,2368964,105.23
+2021-09-30,T,Celkem,Zhoubné novotvary,10613,2011466,189.53
+2021-09-30,T,Celkem,"Úrazy, otravy",141991,7698290,54.22
+2021-12-31,F,Žena,Nemoci duševní,33893,3310409,97.67
+2021-12-31,F,Žena,Nemoci dýchací soustavy,333614,5246343,15.73
+2021-12-31,F,Žena,Nemoci kůže,12160,408423,33.59
+2021-12-31,F,Žena,Nemoci močové a pohlavní soustavy,56537,1826187,32.3
+2021-12-31,F,Žena,Nemoci nervové soustavy,18480,1450448,78.49
+2021-12-31,F,Žena,Nemoci oběhové soustavy,20598,1430271,69.44
+2021-12-31,F,Žena,Nemoci ostatní,571354,12547863,21.96
+2021-12-31,F,Žena,Nemoci pohybové soustavy,183670,14168085,77.14
+2021-12-31,F,Žena,Nemoci trávicí soustavy,60309,1678402,27.83
+2021-12-31,F,Žena,Tuberkulóza,29,5325,183.62
+2021-12-31,F,Žena,"Těhotenství, porod, šestinedělí",29854,3060907,102.53
+2021-12-31,F,Žena,Zhoubné novotvary,7819,1526311,195.21
+2021-12-31,F,Žena,"Úrazy, otravy",69489,3900315,56.13
+2021-12-31,M,Muž,Nemoci duševní,18873,1690857,89.59
+2021-12-31,M,Muž,Nemoci dýchací soustavy,297440,4599803,15.46
+2021-12-31,M,Muž,Nemoci kůže,16806,558425,33.23
+2021-12-31,M,Muž,Nemoci močové a pohlavní soustavy,16196,584773,36.11
+2021-12-31,M,Muž,Nemoci nervové soustavy,12691,1048125,82.59
+2021-12-31,M,Muž,Nemoci oběhové soustavy,27771,2554072,91.97
+2021-12-31,M,Muž,Nemoci ostatní,535642,10177332,19.0
+2021-12-31,M,Muž,Nemoci pohybové soustavy,196475,12508745,63.67
+2021-12-31,M,Muž,Nemoci trávicí soustavy,71337,2033632,28.51
+2021-12-31,M,Muž,Tuberkulóza,56,9614,171.68
+2021-12-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2021-12-31,M,Muž,Zhoubné novotvary,6260,1104787,176.48
+2021-12-31,M,Muž,"Úrazy, otravy",120615,6269713,51.98
+2021-12-31,T,Celkem,Nemoci duševní,52766,5001266,94.78
+2021-12-31,T,Celkem,Nemoci dýchací soustavy,631054,9846146,15.6
+2021-12-31,T,Celkem,Nemoci kůže,28966,966848,33.38
+2021-12-31,T,Celkem,Nemoci močové a pohlavní soustavy,72733,2410960,33.15
+2021-12-31,T,Celkem,Nemoci nervové soustavy,31171,2498573,80.16
+2021-12-31,T,Celkem,Nemoci oběhové soustavy,48369,3984343,82.37
+2021-12-31,T,Celkem,Nemoci ostatní,1106996,22725195,20.53
+2021-12-31,T,Celkem,Nemoci pohybové soustavy,380145,26676830,70.18
+2021-12-31,T,Celkem,Nemoci trávicí soustavy,131646,3712034,28.2
+2021-12-31,T,Celkem,Tuberkulóza,85,14939,175.75
+2021-12-31,T,Celkem,"Těhotenství, porod, šestinedělí",29854,3060907,102.53
+2021-12-31,T,Celkem,Zhoubné novotvary,14079,2631098,186.88
+2021-12-31,T,Celkem,"Úrazy, otravy",190104,10170028,53.5
+2022-03-31,F,Žena,Nemoci duševní,9148,830014,90.73
+2022-03-31,F,Žena,Nemoci dýchací soustavy,139967,1852504,13.24
+2022-03-31,F,Žena,Nemoci kůže,3031,99934,32.97
+2022-03-31,F,Žena,Nemoci močové a pohlavní soustavy,16262,487778,29.99
+2022-03-31,F,Žena,Nemoci nervové soustavy,5313,373037,70.21
+2022-03-31,F,Žena,Nemoci oběhové soustavy,6179,375035,60.7
+2022-03-31,F,Žena,Nemoci ostatní,484396,5648633,11.66
+2022-03-31,F,Žena,Nemoci pohybové soustavy,49514,3620326,73.12
+2022-03-31,F,Žena,Nemoci trávicí soustavy,20069,459987,22.92
+2022-03-31,F,Žena,Tuberkulóza,14,3025,216.07
+2022-03-31,F,Žena,"Těhotenství, porod, šestinedělí",7373,714904,96.96
+2022-03-31,F,Žena,Zhoubné novotvary,2004,374360,186.81
+2022-03-31,F,Žena,"Úrazy, otravy",18477,1068683,57.84
+2022-03-31,M,Muž,Nemoci duševní,4771,410516,86.04
+2022-03-31,M,Muž,Nemoci dýchací soustavy,111629,1500742,13.44
+2022-03-31,M,Muž,Nemoci kůže,4378,150032,34.27
+2022-03-31,M,Muž,Nemoci močové a pohlavní soustavy,4709,168031,35.68
+2022-03-31,M,Muž,Nemoci nervové soustavy,3732,305584,81.88
+2022-03-31,M,Muž,Nemoci oběhové soustavy,7708,661328,85.8
+2022-03-31,M,Muž,Nemoci ostatní,424127,4393589,10.36
+2022-03-31,M,Muž,Nemoci pohybové soustavy,53324,3409178,63.93
+2022-03-31,M,Muž,Nemoci trávicí soustavy,20955,551847,26.33
+2022-03-31,M,Muž,Tuberkulóza,15,2948,196.53
+2022-03-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2022-03-31,M,Muž,Zhoubné novotvary,1736,290275,167.21
+2022-03-31,M,Muž,"Úrazy, otravy",29737,1672331,56.24
+2022-03-31,T,Celkem,Nemoci duševní,13919,1240530,89.12
+2022-03-31,T,Celkem,Nemoci dýchací soustavy,251596,3353247,13.33
+2022-03-31,T,Celkem,Nemoci kůže,7409,249966,33.74
+2022-03-31,T,Celkem,Nemoci močové a pohlavní soustavy,20971,655809,31.27
+2022-03-31,T,Celkem,Nemoci nervové soustavy,9045,678621,75.03
+2022-03-31,T,Celkem,Nemoci oběhové soustavy,13887,1036363,74.63
+2022-03-31,T,Celkem,Nemoci ostatní,908523,10042222,11.05
+2022-03-31,T,Celkem,Nemoci pohybové soustavy,102838,7029504,68.36
+2022-03-31,T,Celkem,Nemoci trávicí soustavy,41024,1011833,24.66
+2022-03-31,T,Celkem,Tuberkulóza,29,5973,205.97
+2022-03-31,T,Celkem,"Těhotenství, porod, šestinedělí",7373,714904,96.96
+2022-03-31,T,Celkem,Zhoubné novotvary,3740,664635,177.71
+2022-03-31,T,Celkem,"Úrazy, otravy",48214,2741014,56.85
+2022-06-30,F,Žena,Nemoci duševní,19036,1646695,86.5
+2022-06-30,F,Žena,Nemoci dýchací soustavy,259639,3386427,13.04
+2022-06-30,F,Žena,Nemoci kůže,6833,207684,30.39
+2022-06-30,F,Žena,Nemoci močové a pohlavní soustavy,33353,999619,29.97
+2022-06-30,F,Žena,Nemoci nervové soustavy,11035,758588,68.74
+2022-06-30,F,Žena,Nemoci oběhové soustavy,12631,754010,59.7
+2022-06-30,F,Žena,Nemoci ostatní,577586,7775502,13.46
+2022-06-30,F,Žena,Nemoci pohybové soustavy,101961,7220015,70.81
+2022-06-30,F,Žena,Nemoci trávicí soustavy,41783,966178,23.12
+2022-06-30,F,Žena,Tuberkulóza,19,4159,218.89
+2022-06-30,F,Žena,"Těhotenství, porod, šestinedělí",15103,1507538,99.82
+2022-06-30,F,Žena,Zhoubné novotvary,4442,790058,177.86
+2022-06-30,F,Žena,"Úrazy, otravy",39353,2170432,55.15
+2022-06-30,M,Muž,Nemoci duševní,10093,851683,84.38
+2022-06-30,M,Muž,Nemoci dýchací soustavy,200846,2672716,13.31
+2022-06-30,M,Muž,Nemoci kůže,9338,298494,31.97
+2022-06-30,M,Muž,Nemoci močové a pohlavní soustavy,9732,339196,34.85
+2022-06-30,M,Muž,Nemoci nervové soustavy,7449,593380,79.66
+2022-06-30,M,Muž,Nemoci oběhové soustavy,15693,1312941,83.66
+2022-06-30,M,Muž,Nemoci ostatní,488521,5625396,11.52
+2022-06-30,M,Muž,Nemoci pohybové soustavy,105550,6563203,62.18
+2022-06-30,M,Muž,Nemoci trávicí soustavy,44053,1137886,25.83
+2022-06-30,M,Muž,Tuberkulóza,28,5549,198.18
+2022-06-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2022-06-30,M,Muž,Zhoubné novotvary,3676,601601,163.66
+2022-06-30,M,Muž,"Úrazy, otravy",64595,3361793,52.04
+2022-06-30,T,Celkem,Nemoci duševní,29129,2498378,85.77
+2022-06-30,T,Celkem,Nemoci dýchací soustavy,460485,6059143,13.16
+2022-06-30,T,Celkem,Nemoci kůže,16171,506178,31.3
+2022-06-30,T,Celkem,Nemoci močové a pohlavní soustavy,43085,1338815,31.07
+2022-06-30,T,Celkem,Nemoci nervové soustavy,18484,1351968,73.14
+2022-06-30,T,Celkem,Nemoci oběhové soustavy,28324,2066951,72.98
+2022-06-30,T,Celkem,Nemoci ostatní,1066107,13400898,12.57
+2022-06-30,T,Celkem,Nemoci pohybové soustavy,207511,13783218,66.42
+2022-06-30,T,Celkem,Nemoci trávicí soustavy,85836,2104064,24.51
+2022-06-30,T,Celkem,Tuberkulóza,47,9708,206.55
+2022-06-30,T,Celkem,"Těhotenství, porod, šestinedělí",15103,1507538,99.82
+2022-06-30,T,Celkem,Zhoubné novotvary,8118,1391659,171.43
+2022-06-30,T,Celkem,"Úrazy, otravy",103948,5532225,53.22
+2022-09-30,F,Žena,Nemoci duševní,27127,2374584,87.54
+2022-09-30,F,Žena,Nemoci dýchací soustavy,341950,4376113,12.8
+2022-09-30,F,Žena,Nemoci kůže,10274,301568,29.35
+2022-09-30,F,Žena,Nemoci močové a pohlavní soustavy,47009,1413030,30.06
+2022-09-30,F,Žena,Nemoci nervové soustavy,15352,1071658,69.81
+2022-09-30,F,Žena,Nemoci oběhové soustavy,17240,1075846,62.4
+2022-09-30,F,Žena,Nemoci ostatní,680267,9683097,14.23
+2022-09-30,F,Žena,Nemoci pohybové soustavy,144253,10239877,70.99
+2022-09-30,F,Žena,Nemoci trávicí soustavy,58995,1373703,23.29
+2022-09-30,F,Žena,Tuberkulóza,24,5161,215.04
+2022-09-30,F,Žena,"Těhotenství, porod, šestinedělí",21599,2151619,99.62
+2022-09-30,F,Žena,Zhoubné novotvary,6535,1201827,183.91
+2022-09-30,F,Žena,"Úrazy, otravy",58454,3176849,54.35
+2022-09-30,M,Muž,Nemoci duševní,14780,1226391,82.98
+2022-09-30,M,Muž,Nemoci dýchací soustavy,270753,3485927,12.87
+2022-09-30,M,Muž,Nemoci kůže,14286,439538,30.77
+2022-09-30,M,Muž,Nemoci močové a pohlavní soustavy,14077,477861,33.95
+2022-09-30,M,Muž,Nemoci nervové soustavy,10483,822568,78.47
+2022-09-30,M,Muž,Nemoci oběhové soustavy,22266,1878622,84.37
+2022-09-30,M,Muž,Nemoci ostatní,568800,6829941,12.01
+2022-09-30,M,Muž,Nemoci pohybové soustavy,150721,9203967,61.07
+2022-09-30,M,Muž,Nemoci trávicí soustavy,64157,1640899,25.58
+2022-09-30,M,Muž,Tuberkulóza,41,7690,187.56
+2022-09-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2022-09-30,M,Muž,Zhoubné novotvary,5323,878962,165.13
+2022-09-30,M,Muž,"Úrazy, otravy",97797,4920204,50.31
+2022-09-30,T,Celkem,Nemoci duševní,41907,3600975,85.93
+2022-09-30,T,Celkem,Nemoci dýchací soustavy,612703,7862040,12.83
+2022-09-30,T,Celkem,Nemoci kůže,24560,741106,30.18
+2022-09-30,T,Celkem,Nemoci močové a pohlavní soustavy,61086,1890891,30.95
+2022-09-30,T,Celkem,Nemoci nervové soustavy,25835,1894226,73.32
+2022-09-30,T,Celkem,Nemoci oběhové soustavy,39506,2954468,74.79
+2022-09-30,T,Celkem,Nemoci ostatní,1249067,16513038,13.22
+2022-09-30,T,Celkem,Nemoci pohybové soustavy,294974,19443844,65.92
+2022-09-30,T,Celkem,Nemoci trávicí soustavy,123152,3014602,24.48
+2022-09-30,T,Celkem,Tuberkulóza,65,12851,197.71
+2022-09-30,T,Celkem,"Těhotenství, porod, šestinedělí",21599,2151619,99.62
+2022-09-30,T,Celkem,Zhoubné novotvary,11858,2080789,175.48
+2022-09-30,T,Celkem,"Úrazy, otravy",156251,8097053,51.82
+2022-12-31,F,Žena,Nemoci duševní,35849,3099055,86.45
+2022-12-31,F,Žena,Nemoci dýchací soustavy,540653,6541381,12.1
+2022-12-31,F,Žena,Nemoci kůže,13663,392776,28.75
+2022-12-31,F,Žena,Nemoci močové a pohlavní soustavy,64912,1876919,28.91
+2022-12-31,F,Žena,Nemoci nervové soustavy,20124,1355470,67.36
+2022-12-31,F,Žena,Nemoci oběhové soustavy,23231,1418583,61.06
+2022-12-31,F,Žena,Nemoci ostatní,779492,11606664,14.89
+2022-12-31,F,Žena,Nemoci pohybové soustavy,190870,13308154,69.72
+2022-12-31,F,Žena,Nemoci trávicí soustavy,77253,1796831,23.26
+2022-12-31,F,Žena,Tuberkulóza,31,6561,211.65
+2022-12-31,F,Žena,"Těhotenství, porod, šestinedělí",28150,2747209,97.59
+2022-12-31,F,Žena,Zhoubné novotvary,8864,1617994,182.54
+2022-12-31,F,Žena,"Úrazy, otravy",76221,4142084,54.34
+2022-12-31,M,Muž,Nemoci duševní,19421,1601261,82.45
+2022-12-31,M,Muž,Nemoci dýchací soustavy,424673,5190864,12.22
+2022-12-31,M,Muž,Nemoci kůže,18756,572626,30.53
+2022-12-31,M,Muž,Nemoci močové a pohlavní soustavy,18898,631661,33.42
+2022-12-31,M,Muž,Nemoci nervové soustavy,13480,1052935,78.11
+2022-12-31,M,Muž,Nemoci oběhové soustavy,29308,2460154,83.94
+2022-12-31,M,Muž,Nemoci ostatní,638909,7994856,12.51
+2022-12-31,M,Muž,Nemoci pohybové soustavy,197631,11868407,60.05
+2022-12-31,M,Muž,Nemoci trávicí soustavy,83032,2123618,25.58
+2022-12-31,M,Muž,Tuberkulóza,54,9502,175.96
+2022-12-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2022-12-31,M,Muž,Zhoubné novotvary,7091,1180952,166.54
+2022-12-31,M,Muž,"Úrazy, otravy",127347,6430526,50.5
+2022-12-31,T,Celkem,Nemoci duševní,55270,4700316,85.04
+2022-12-31,T,Celkem,Nemoci dýchací soustavy,965326,11732245,12.15
+2022-12-31,T,Celkem,Nemoci kůže,32419,965402,29.78
+2022-12-31,T,Celkem,Nemoci močové a pohlavní soustavy,83810,2508580,29.93
+2022-12-31,T,Celkem,Nemoci nervové soustavy,33604,2408405,71.67
+2022-12-31,T,Celkem,Nemoci oběhové soustavy,52539,3878737,73.83
+2022-12-31,T,Celkem,Nemoci ostatní,1418401,19601520,13.82
+2022-12-31,T,Celkem,Nemoci pohybové soustavy,388501,25176561,64.8
+2022-12-31,T,Celkem,Nemoci trávicí soustavy,160285,3920449,24.46
+2022-12-31,T,Celkem,Tuberkulóza,85,16063,188.98
+2022-12-31,T,Celkem,"Těhotenství, porod, šestinedělí",28150,2747209,97.59
+2022-12-31,T,Celkem,Zhoubné novotvary,15955,2798946,175.43
+2022-12-31,T,Celkem,"Úrazy, otravy",203568,10572610,51.94
+2023-03-31,F,Žena,Nemoci duševní,9462,818010,86.45
+2023-03-31,F,Žena,Nemoci dýchací soustavy,241006,2942039,12.21
+2023-03-31,F,Žena,Nemoci kůže,3630,106516,29.34
+2023-03-31,F,Žena,Nemoci močové a pohlavní soustavy,17907,517661,28.91
+2023-03-31,F,Žena,Nemoci nervové soustavy,5295,358430,67.69
+2023-03-31,F,Žena,Nemoci oběhové soustavy,6802,383476,56.38
+2023-03-31,F,Žena,Nemoci ostatní,71140,1651851,23.22
+2023-03-31,F,Žena,Nemoci pohybové soustavy,50404,3449584,68.44
+2023-03-31,F,Žena,Nemoci trávicí soustavy,19321,463373,23.98
+2023-03-31,F,Žena,Tuberkulóza,9,1816,201.78
+2023-03-31,F,Žena,"Těhotenství, porod, šestinedělí",6528,596693,91.41
+2023-03-31,F,Žena,Zhoubné novotvary,2307,416508,180.54
+2023-03-31,F,Žena,"Úrazy, otravy",19429,1099204,56.58
+2023-03-31,M,Muž,Nemoci duševní,5127,425639,83.02
+2023-03-31,M,Muž,Nemoci dýchací soustavy,182443,2253703,12.35
+2023-03-31,M,Muž,Nemoci kůže,4846,159049,32.82
+2023-03-31,M,Muž,Nemoci močové a pohlavní soustavy,5101,173464,34.01
+2023-03-31,M,Muž,Nemoci nervové soustavy,3585,283256,79.01
+2023-03-31,M,Muž,Nemoci oběhové soustavy,8115,640060,78.87
+2023-03-31,M,Muž,Nemoci ostatní,48091,972048,20.21
+2023-03-31,M,Muž,Nemoci pohybové soustavy,53270,3263524,61.26
+2023-03-31,M,Muž,Nemoci trávicí soustavy,20427,584547,28.62
+2023-03-31,M,Muž,Tuberkulóza,5,422,84.4
+2023-03-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2023-03-31,M,Muž,Zhoubné novotvary,1795,281789,156.99
+2023-03-31,M,Muž,"Úrazy, otravy",29972,1679092,56.02
+2023-03-31,T,Celkem,Nemoci duševní,14589,1243649,85.25
+2023-03-31,T,Celkem,Nemoci dýchací soustavy,423449,5195742,12.27
+2023-03-31,T,Celkem,Nemoci kůže,8476,265565,31.33
+2023-03-31,T,Celkem,Nemoci močové a pohlavní soustavy,23008,691125,30.04
+2023-03-31,T,Celkem,Nemoci nervové soustavy,8880,641686,72.26
+2023-03-31,T,Celkem,Nemoci oběhové soustavy,14917,1023536,68.62
+2023-03-31,T,Celkem,Nemoci ostatní,119231,2623899,22.01
+2023-03-31,T,Celkem,Nemoci pohybové soustavy,103674,6713108,64.75
+2023-03-31,T,Celkem,Nemoci trávicí soustavy,39748,1047920,26.36
+2023-03-31,T,Celkem,Tuberkulóza,14,2238,159.86
+2023-03-31,T,Celkem,"Těhotenství, porod, šestinedělí",6528,596693,91.41
+2023-03-31,T,Celkem,Zhoubné novotvary,4102,698297,170.23
+2023-03-31,T,Celkem,"Úrazy, otravy",49401,2778296,56.24
+2023-06-30,F,Žena,Nemoci duševní,19552,1622000,82.96
+2023-06-30,F,Žena,Nemoci dýchací soustavy,357766,4370870,12.22
+2023-06-30,F,Žena,Nemoci kůže,7491,211525,28.24
+2023-06-30,F,Žena,Nemoci močové a pohlavní soustavy,34837,1018566,29.24
+2023-06-30,F,Žena,Nemoci nervové soustavy,11049,739099,66.89
+2023-06-30,F,Žena,Nemoci oběhové soustavy,13291,754126,56.74
+2023-06-30,F,Žena,Nemoci ostatní,116566,2998586,25.72
+2023-06-30,F,Žena,Nemoci pohybové soustavy,100959,6829610,67.65
+2023-06-30,F,Žena,Nemoci trávicí soustavy,39215,926788,23.63
+2023-06-30,F,Žena,Tuberkulóza,17,2925,172.06
+2023-06-30,F,Žena,"Těhotenství, porod, šestinedělí",13080,1211763,92.64
+2023-06-30,F,Žena,Zhoubné novotvary,4701,824236,175.33
+2023-06-30,F,Žena,"Úrazy, otravy",39980,2196437,54.94
+2023-06-30,M,Muž,Nemoci duševní,10384,829375,79.87
+2023-06-30,M,Muž,Nemoci dýchací soustavy,265641,3301836,12.43
+2023-06-30,M,Muž,Nemoci kůže,9731,304868,31.33
+2023-06-30,M,Muž,Nemoci močové a pohlavní soustavy,9778,330297,33.78
+2023-06-30,M,Muž,Nemoci nervové soustavy,7060,553969,78.47
+2023-06-30,M,Muž,Nemoci oběhové soustavy,16078,1278966,79.55
+2023-06-30,M,Muž,Nemoci ostatní,77088,1688562,21.9
+2023-06-30,M,Muž,Nemoci pohybové soustavy,102459,6222224,60.73
+2023-06-30,M,Muž,Nemoci trávicí soustavy,41630,1161638,27.9
+2023-06-30,M,Muž,Tuberkulóza,24,4163,173.46
+2023-06-30,M,Muž,"Těhotenství, porod, šestinedělí",0,10,10.0
+2023-06-30,M,Muž,Zhoubné novotvary,3648,578592,158.61
+2023-06-30,M,Muž,"Úrazy, otravy",62291,3288211,52.79
+2023-06-30,T,Celkem,Nemoci duševní,29936,2451375,81.89
+2023-06-30,T,Celkem,Nemoci dýchací soustavy,623407,7672706,12.31
+2023-06-30,T,Celkem,Nemoci kůže,17222,516393,29.98
+2023-06-30,T,Celkem,Nemoci močové a pohlavní soustavy,44615,1348863,30.23
+2023-06-30,T,Celkem,Nemoci nervové soustavy,18109,1293068,71.4
+2023-06-30,T,Celkem,Nemoci oběhové soustavy,29369,2033092,69.23
+2023-06-30,T,Celkem,Nemoci ostatní,193654,4687148,24.2
+2023-06-30,T,Celkem,Nemoci pohybové soustavy,203418,13051834,64.16
+2023-06-30,T,Celkem,Nemoci trávicí soustavy,80845,2088426,25.83
+2023-06-30,T,Celkem,Tuberkulóza,41,7088,172.88
+2023-06-30,T,Celkem,"Těhotenství, porod, šestinedělí",13080,1211773,92.64
+2023-06-30,T,Celkem,Zhoubné novotvary,8349,1402828,168.02
+2023-06-30,T,Celkem,"Úrazy, otravy",102271,5484648,53.63
+2023-09-30,F,Žena,Nemoci duševní,28027,2361443,84.26
+2023-09-30,F,Žena,Nemoci dýchací soustavy,414924,5079937,12.24
+2023-09-30,F,Žena,Nemoci kůže,10941,302873,27.68
+2023-09-30,F,Žena,Nemoci močové a pohlavní soustavy,47474,1370572,28.87
+2023-09-30,F,Žena,Nemoci nervové soustavy,15521,1056692,68.08
+2023-09-30,F,Žena,Nemoci oběhové soustavy,17697,1046532,59.14
+2023-09-30,F,Žena,Nemoci ostatní,152306,4037400,26.51
+2023-09-30,F,Žena,Nemoci pohybové soustavy,141467,9624445,68.03
+2023-09-30,F,Žena,Nemoci trávicí soustavy,56304,1294606,22.99
+2023-09-30,F,Žena,Tuberkulóza,25,4024,160.96
+2023-09-30,F,Žena,"Těhotenství, porod, šestinedělí",18730,1757297,93.82
+2023-09-30,F,Žena,Zhoubné novotvary,6884,1229149,178.55
+2023-09-30,F,Žena,"Úrazy, otravy",58738,3166574,53.91
+2023-09-30,M,Muž,Nemoci duševní,15119,1215428,80.39
+2023-09-30,M,Muž,Nemoci dýchací soustavy,314389,3903592,12.42
+2023-09-30,M,Muž,Nemoci kůže,14489,441746,30.49
+2023-09-30,M,Muž,Nemoci močové a pohlavní soustavy,13614,450438,33.09
+2023-09-30,M,Muž,Nemoci nervové soustavy,9871,768928,77.9
+2023-09-30,M,Muž,Nemoci oběhové soustavy,22466,1806209,80.4
+2023-09-30,M,Muž,Nemoci ostatní,104018,2298948,22.1
+2023-09-30,M,Muž,Nemoci pohybové soustavy,144741,8621421,59.56
+2023-09-30,M,Muž,Nemoci trávicí soustavy,60754,1610510,26.51
+2023-09-30,M,Muž,Tuberkulóza,41,7199,175.59
+2023-09-30,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2023-09-30,M,Muž,Zhoubné novotvary,5352,851010,159.01
+2023-09-30,M,Muž,"Úrazy, otravy",93779,4771676,50.88
+2023-09-30,T,Celkem,Nemoci duševní,43146,3576871,82.9
+2023-09-30,T,Celkem,Nemoci dýchací soustavy,729313,8983529,12.32
+2023-09-30,T,Celkem,Nemoci kůže,25430,744619,29.28
+2023-09-30,T,Celkem,Nemoci močové a pohlavní soustavy,61088,1821010,29.81
+2023-09-30,T,Celkem,Nemoci nervové soustavy,25392,1825620,71.9
+2023-09-30,T,Celkem,Nemoci oběhové soustavy,40163,2852741,71.03
+2023-09-30,T,Celkem,Nemoci ostatní,256324,6336348,24.72
+2023-09-30,T,Celkem,Nemoci pohybové soustavy,286208,18245866,63.75
+2023-09-30,T,Celkem,Nemoci trávicí soustavy,117058,2905116,24.82
+2023-09-30,T,Celkem,Tuberkulóza,66,11223,170.05
+2023-09-30,T,Celkem,"Těhotenství, porod, šestinedělí",18730,1757297,93.82
+2023-09-30,T,Celkem,Zhoubné novotvary,12236,2080159,170.0
+2023-09-30,T,Celkem,"Úrazy, otravy",152517,7938250,52.05
+2023-12-31,F,Žena,Nemoci duševní,37334,3060922,81.99
+2023-12-31,F,Žena,Nemoci dýchací soustavy,610294,7148530,11.71
+2023-12-31,F,Žena,Nemoci kůže,14481,405444,28.0
+2023-12-31,F,Žena,Nemoci močové a pohlavní soustavy,64885,1800174,27.74
+2023-12-31,F,Žena,Nemoci nervové soustavy,20470,1350874,65.99
+2023-12-31,F,Žena,Nemoci oběhové soustavy,23791,1366284,57.43
+2023-12-31,F,Žena,Nemoci ostatní,254517,5728487,22.51
+2023-12-31,F,Žena,Nemoci pohybové soustavy,187505,12430472,66.29
+2023-12-31,F,Žena,Nemoci trávicí soustavy,74933,1695597,22.63
+2023-12-31,F,Žena,Tuberkulóza,33,5081,153.97
+2023-12-31,F,Žena,"Těhotenství, porod, šestinedělí",24544,2265672,92.31
+2023-12-31,F,Žena,Zhoubné novotvary,9162,1623505,177.2
+2023-12-31,F,Žena,"Úrazy, otravy",77585,4149986,53.49
+2023-12-31,M,Muž,Nemoci duševní,20020,1577937,78.82
+2023-12-31,M,Muž,Nemoci dýchací soustavy,459583,5468701,11.9
+2023-12-31,M,Muž,Nemoci kůže,19116,578921,30.28
+2023-12-31,M,Muž,Nemoci močové a pohlavní soustavy,18325,591637,32.29
+2023-12-31,M,Muž,Nemoci nervové soustavy,12955,986405,76.14
+2023-12-31,M,Muž,Nemoci oběhové soustavy,29373,2345011,79.84
+2023-12-31,M,Muž,Nemoci ostatní,169355,3269909,19.31
+2023-12-31,M,Muž,Nemoci pohybové soustavy,189980,11059818,58.22
+2023-12-31,M,Muž,Nemoci trávicí soustavy,79745,2076685,26.04
+2023-12-31,M,Muž,Tuberkulóza,62,10393,167.63
+2023-12-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2023-12-31,M,Muž,Zhoubné novotvary,7108,1135134,159.7
+2023-12-31,M,Muž,"Úrazy, otravy",123425,6245326,50.6
+2023-12-31,T,Celkem,Nemoci duševní,57354,4638859,80.88
+2023-12-31,T,Celkem,Nemoci dýchací soustavy,1069877,12617231,11.79
+2023-12-31,T,Celkem,Nemoci kůže,33597,984365,29.3
+2023-12-31,T,Celkem,Nemoci močové a pohlavní soustavy,83210,2391811,28.74
+2023-12-31,T,Celkem,Nemoci nervové soustavy,33425,2337279,69.93
+2023-12-31,T,Celkem,Nemoci oběhové soustavy,53164,3711295,69.81
+2023-12-31,T,Celkem,Nemoci ostatní,423872,8998396,21.23
+2023-12-31,T,Celkem,Nemoci pohybové soustavy,377485,23490290,62.23
+2023-12-31,T,Celkem,Nemoci trávicí soustavy,154678,3772282,24.39
+2023-12-31,T,Celkem,Tuberkulóza,95,15474,162.88
+2023-12-31,T,Celkem,"Těhotenství, porod, šestinedělí",24544,2265672,92.31
+2023-12-31,T,Celkem,Zhoubné novotvary,16270,2758639,169.55
+2023-12-31,T,Celkem,"Úrazy, otravy",201010,10395312,51.72
+2024-03-31,F,Žena,Nemoci duševní,10034,818350,81.56
+2024-03-31,F,Žena,Nemoci dýchací soustavy,212108,2544664,12.0
+2024-03-31,F,Žena,Nemoci kůže,3661,102183,27.91
+2024-03-31,F,Žena,Nemoci močové a pohlavní soustavy,17326,492179,28.41
+2024-03-31,F,Žena,Nemoci nervové soustavy,5348,344213,64.36
+2024-03-31,F,Žena,Nemoci oběhové soustavy,6720,364875,54.3
+2024-03-31,F,Žena,Nemoci ostatní,53064,1368952,25.8
+2024-03-31,F,Žena,Nemoci pohybové soustavy,48453,3213484,66.32
+2024-03-31,F,Žena,Nemoci trávicí soustavy,19017,422458,22.21
+2024-03-31,F,Žena,Tuberkulóza,12,1890,157.5
+2024-03-31,F,Žena,"Těhotenství, porod, šestinedělí",6025,536865,89.11
+2024-03-31,F,Žena,Zhoubné novotvary,2291,399202,174.25
+2024-03-31,F,Žena,"Úrazy, otravy",19811,1117339,56.4
+2024-03-31,M,Muž,Nemoci duševní,5157,405081,78.55
+2024-03-31,M,Muž,Nemoci dýchací soustavy,162110,1967647,12.14
+2024-03-31,M,Muž,Nemoci kůže,4648,150220,32.32
+2024-03-31,M,Muž,Nemoci močové a pohlavní soustavy,5018,162561,32.4
+2024-03-31,M,Muž,Nemoci nervové soustavy,3562,269104,75.55
+2024-03-31,M,Muž,Nemoci oběhové soustavy,8112,618159,76.2
+2024-03-31,M,Muž,Nemoci ostatní,35301,787526,22.31
+2024-03-31,M,Muž,Nemoci pohybové soustavy,50446,3051284,60.49
+2024-03-31,M,Muž,Nemoci trávicí soustavy,19931,558557,28.02
+2024-03-31,M,Muž,Tuberkulóza,16,3381,211.31
+2024-03-31,M,Muž,"Těhotenství, porod, šestinedělí",0,0,0.0
+2024-03-31,M,Muž,Zhoubné novotvary,1815,284160,156.56
+2024-03-31,M,Muž,"Úrazy, otravy",29131,1603683,55.05
+2024-03-31,T,Celkem,Nemoci duševní,15191,1223431,80.54
+2024-03-31,T,Celkem,Nemoci dýchací soustavy,374218,4512311,12.06
+2024-03-31,T,Celkem,Nemoci kůže,8309,252403,30.38
+2024-03-31,T,Celkem,Nemoci močové a pohlavní soustavy,22344,654740,29.3
+2024-03-31,T,Celkem,Nemoci nervové soustavy,8910,613317,68.83
+2024-03-31,T,Celkem,Nemoci oběhové soustavy,14832,983034,66.28
+2024-03-31,T,Celkem,Nemoci ostatní,88365,2156478,24.4
+2024-03-31,T,Celkem,Nemoci pohybové soustavy,98899,6264768,63.35
+2024-03-31,T,Celkem,Nemoci trávicí soustavy,38948,981015,25.19
+2024-03-31,T,Celkem,Tuberkulóza,28,5271,188.25
+2024-03-31,T,Celkem,"Těhotenství, porod, šestinedělí",6025,536865,89.11
+2024-03-31,T,Celkem,Zhoubné novotvary,4106,683362,166.43
+2024-03-31,T,Celkem,"Úrazy, otravy",48942,2721022,55.6
