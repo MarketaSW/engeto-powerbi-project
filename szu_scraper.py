@@ -83,7 +83,6 @@ def write_to_csv(tables, output_file):
     path = Path(output_file)
     with path.open('w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        print("Tables to be written:", tables)  # Debugging line
         for row in tables:
             if row is not None:
                 writer.writerow(row)
