@@ -78,14 +78,30 @@ def extract_data_from_pdf(pdf_files) -> list:
                 tables.extend(table_data)
     return tables    
 
-def write_to_csv(tables, output_file):
+def format_table(tables) -> list:
+    """Add blank cells to ensure all rows have the same number of columns."""
+    
+    all_rows = [row for table in tables for row in table]
+    max_columns = max(len(row) for row in all_rows if row is not None)
+    
+    aligned_rows = []
+    for row in all_rows:
+        if row is None:
+            aligned_rows.append([None] * max_columns)
+        else:
+            aligned_rows.append(row + [None] * (max_columns - len(row)))
+    
+    return aligned_rows
+
+def write_to_csv(aligned_rows, output_file):
     
     path = Path(output_file)
     with path.open('w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
         for row in tables:
             if row is not None:
-                writer.writerow(row)
+                cleaned_row = [cell if cell is not None else '' for cell in row]
+                writer.writerow(cleaned_row)
 
 def main():
     parser = argparse.ArgumentParser()
