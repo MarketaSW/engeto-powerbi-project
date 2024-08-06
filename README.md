@@ -11,9 +11,9 @@ Tento repozitář obsahuje report v Power BI, zobrazující údaje o akutních r
 
 ## Soubory
 
-- `web_scraping\`: Script k získání podkladů ze stránek Státního zdravotního ústavu a související soubory.
+- `web_scraping/`: Script k získání podkladů ze stránek Státního zdravotního ústavu a související soubory.
 - `marketa-sverakova-wallo-report-ARI-PN.pbix`: Hlavní soubor Power BI reportu.
-- - `podklady_report\`: Složka se zdrojovými daty k reportu.
+- - `podklady_report/`: Složka se zdrojovými daty k reportu.
 
 ## Návod k otevření
 
