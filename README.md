@@ -6,7 +6,7 @@
 **Discord:** marketasverakova_37252  
 **GitHub Repozitář:** [github.com/MarketaSW/engeto-powerbi-project](https://github.com/MarketaSW/engeto-powerbi-project)
 
-Cílem pátého projektu bylo vyzkoušet si práci v Power BI.
+Cílem pátého projektu bylo vyzkoušet si práci v Power BI. Část dat byla dostupná pouze v pdf, bylo proto třeba napsat script v Pythonu pro scraping z webu a uložení do tabulky.
 
 ## Akutní respirační onemocnění v České Republice - sezóna 2023/2024
 
